@@ -1,0 +1,585 @@
+{
+  "id": "test-2-worlds-first-cities-camouflaged-creatures-online-course",
+  "title": "TEST 2 - IELTS Reading",
+  "duration": 60,
+  "sourceFile": "TEST 2.docx",
+  "passages": [
+    {
+      "id": "p1",
+      "label": "Passage 1",
+      "title": "The world's first cities",
+      "subtitle": "The creation of Mesopotamian cities",
+      "paragraphs": [
+        {
+          "label": "1",
+          "text": "The inhabitants of Mesopotamia - which now forms part of eastern Syria, southeastern Turkey and Iraq - lived for thousands of years on individual farms and in small, isolated communities, working relentlessly just to meet their basic needs. But then, about 6,000 years ago something remarkable happened. The people left the security of their family homes and villages and came together with others to create something far more complex and difficult: the world's first city, called Uruk."
+        },
+        {
+          "label": "2",
+          "text": "There is not much left now of Uruk, which is about 250 kilometres south of Iraq's capital Baghdad, but enough does remain to show that this initial experiment in urban living was extraordinarily successful. At its height, around 5,000 years ago, Uruk was home to more than 40,000 people. The outlines of the city walls indicate an enclosed area of about 600 hectares."
+        },
+        {
+          "label": "3",
+          "text": "The archaeological record of Uruk reveals the intensive building and rebuilding which went on for four or five centuries after the city's initial establishment. In that period the people of Uruk built a dozen or so large public buildings. They would carefully level what had stood before, and then build another structure on top, often trying out a different building material or an innovative technique. They seemed to be searching for ways in which architecture could express the revolutionary new social structures that had come into being there."
+        },
+        {
+          "label": "4",
+          "text": "Soon Uruk was not the only Mesopotamian city. People all across the flat plains of southern Mesopotamia were enjoying many of the benefits of city life. By about 4,500 years ago, 80 per cent of the Mesopotamian population lived in cities over 40 hectares in size, with populations of between 15,000 and 30,000 people. The emergence of these thriving communities, made up mostly of individuals and groups with no blood ties, was unprecedented in human history. Why did these extraordinary advances happen?"
+        },
+        {
+          "label": "5",
+          "text": "Smaller communities in Mesopotamia sometimes decided to come together to make it easier to defend themselves from their enemies. But the underlying reason for the creation of cities can be found in the harshness of this particular environment. The area was a place of extremes, where narrow strips of fertile river valleys were bounded by thousands of kilometres of desert and unproductive wetlands. As the small amount of rainfall in the region was incapable of sustaining anything but very limited agriculture, it was only through sophisticated irrigation that isolated pieces of land were kept fertile. The Tigris and the Euphrates rivers provided water for irrigation, and were also the basis of a communication system that led to the spread of the latest concepts in farming."
+        },
+        {
+          "label": "6",
+          "text": "In such a region, the only way for humans to prosper was by forming groups that could work together. The threat of famine, which could be caused by a prolonged drought or the sudden change in the course of a river, forced people to look outside their families, and work with their neighbours to create an elaborate system of dams, channels and canals to manage water. These projects needed specific skills and labour from outside the farmer's family, and this established more firmly the patterns of dependence that are at the heart of civilisation."
+        },
+        {
+          "label": "7",
+          "text": "The intensive farming that came about in Mesopotamia was more efficient and productive and therefore generated a surplus of food, allowing crops in years of good harvests to be stored as protection against future less successful years. It also allowed more land for the production of a wider range of crops. It created a world where there was a need for traders and for skilled craftsmen: in short, it was the beginning of industry and consumerism. The concept of specialisation emerged within the population - with increasing numbers of soldiers, builders, musicians, doctors, fortune tellers - all supported directly or indirectly by agriculture. At the same time, this increased the control that powerful institutions, gradually emerging in the early cities, had over the urban population. Although large numbers of people were freed from the struggle of subsistence farming, they were now totally dependent on the institutions that employed them for their daily sustenance."
+        },
+        {
+          "label": "8",
+          "text": "The earliest and most powerful of these institutions was centred on the religious temple. Ever more temple structures were erected in the form of massive pyramids which had enormous storerooms for the output from the farming estates. Over time, the temples acquired these farms for themselves, and appointed a large number of staff to administer them and to deal with the storage of produce. The temples' greatest advantage was that each citizen was expected to give up some time to work for the temples. This meant that temples could easily store huge amounts of agricultural produce which could be used to buy yet more land. In addition, the revenues generated allowed the temples to serve as primitive kinds of banks making loans to people in difficult economic times."
+        },
+        {
+          "label": "9",
+          "text": "We know a surprising amount about these times thanks to the development of an important new technology: writing. In Mesopotamia basic records were inscribed in wet clay, unlike the fragile papyrus used in ancient Egypt and Greece. These first writings were largely lists of people and things, simple bookkeeping. But within several hundred years, writing systems had become more advanced capable of recording concepts as well as lists. The clay tablets used for writing were tough, and the fires that often burnt down the archives where they were stored usually merely baked them for future generations."
+        }
+      ],
+      "questionGroups": [
+        {
+          "type": "tfng",
+          "title": "Questions 1-6",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "questions": [
+            {
+              "id": "1",
+              "prompt": "Some physical evidence of Uruk still exists in Iraq.",
+              "answer": "TRUE"
+            },
+            {
+              "id": "2",
+              "prompt": "The people of Uruk lived in large apartment buildings.",
+              "answer": "FALSE"
+            },
+            {
+              "id": "3",
+              "prompt": "Builders in Uruk frequently experimented with new construction methods.",
+              "answer": "TRUE"
+            },
+            {
+              "id": "4",
+              "prompt": "Urban settlements were unusual in Mesopotamia 4,500 years ago.",
+              "answer": "FALSE"
+            },
+            {
+              "id": "5",
+              "prompt": "The Tigris and the Euphrates rivers were important for the interchange of ideas.",
+              "answer": "TRUE"
+            },
+            {
+              "id": "6",
+              "prompt": "When there were food shortages, farmers relied mainly on the help of their relatives.",
+              "answer": "FALSE"
+            }
+          ]
+        },
+        {
+          "type": "gap-fill",
+          "title": "Questions 7-13",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "questions": [
+            {
+              "id": "7",
+              "prompt": "Improved agricultural methods led to a food",
+              "suffix": "being used as insurance.",
+              "answer": "surplus"
+            },
+            {
+              "id": "8",
+              "prompt": "Temples were built in the shape of large",
+              "suffix": ".",
+              "answer": "pyramids"
+            },
+            {
+              "id": "9",
+              "prompt": "Temples had large",
+              "suffix": "where produce was kept.",
+              "answer": "storerooms"
+            },
+            {
+              "id": "10",
+              "prompt": "Many needed",
+              "suffix": "to manage the farms.",
+              "answer": "staff"
+            },
+            {
+              "id": "11",
+              "prompt": "Temples acted as",
+              "suffix": "in hard economic periods.",
+              "answer": "banks"
+            },
+            {
+              "id": "12",
+              "prompt": "People wrote on surfaces made of",
+              "suffix": ".",
+              "answer": "clay"
+            },
+            {
+              "id": "13",
+              "prompt": "Written records remained undamaged after",
+              "suffix": "archives they were kept in.",
+              "answer": "fires"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "label": "Passage 2",
+      "title": "Australia's camouflaged creatures",
+      "subtitle": "Many species of animal in Australia protect themselves by using camouflage - a way of 'hiding' by blending into the surroundings",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Most species use camouflage to some extent. If they are convincing, they survive to pass their genes on to future generations. After generation of natural selection, animals can develop astonishingly complex camouflage techniques, manipulating shape, colour and movement. 'The principle of camouflage is to make it economically unviable for a predator to pursue a particular species of prey.' explains Professor Mark Elgar, of the University of Melbourne. 'Camouflage increases the search time and, as a consequence, the predator will simply target another species, either because it doesn't see the camouflaged individual or it just finds something more obvious to do."
+        },
+        {
+          "label": "B",
+          "text": "The easiest way for an animal to disguise itself is to be invisible in its surroundings. To that end, stick and leaf insects have evolved complex camouflage to hide themselves from predators. Many have the texture of sticks or dry leaves, while others imitate living foliage, even the veins in a leaf. Some insects develop blemishes to match the spots caused by disease. A convincing appearance only works if its owner also acts the part, so during the day the creature using this type of camouflage keeps motionless, or sways like a dead leaf in the breeze. If disturbed, it falls to the ground and stays still. Entomologist Paul Zborowski, who has spent decades photographing inconspicuous creatures, rates the desert insects of Central Australia as the most convincingly disguised creatures he's seen. \"It's an incredibly old habitat so the creatures have had a long time to adapt,\" Zborowski explains. Most of them behave like stones and don't move all day feeding only at night."
+        },
+        {
+          "label": "C",
+          "text": "A tawny frogmouth sitting motionless on a stump also illustrates the importance of pairing a persuasive costume with behaviour. Professor Gisela Kaplan of the University of New England, in Australia, says the frogmouth's skill at camouflaging is learned behaviour. While adopting a pose may be a reflex of the bird, and can be observed in a hatchling's first week, the ability to choose a backdrop which matches its colouration does not develop for 4-6 months. When the chicks land they are usually highly conspicuous, and their parents try to signal to them to move to a safe location."
+        },
+        {
+          "label": "D",
+          "text": "Fixed camouflage is only good against a relatively unchanging environment, so some animals, such as the cuttlefish, have evolved an adaptable disguise. The cuttlefish can almost instantly change its colour, pattern and texture to match its surroundings, using specialised cells and muscles. On Queensland's reefs, scientists have been studying another ocean dweller that uses colour change, although not to blend into the surroundings. Dr Karen Cheney, from the University of Queensland, says the bluestriped fangblenny alters its colouration to mimic other species of fish, allowing it to travel with them and benefit from safety in numbers. Its most impressive impersonation is of the black-with-neon-blue striped cleaner wrasse which eats the parasites on larger fish. Not only does the fangblenny benefit from the reduced predation that comes with the wrasse's beneficial relationships with other fish, but the disguise also lets it get closer to prey. It darts out from the safety of the wrasse's cleaning station to nip at unsuspecting fish passing by but doesn't attack those coming to be cleaned."
+        },
+        {
+          "label": "E",
+          "text": "The most famous form of mimicry, however, is for defence, not attack. Batesian mimicry refers to animals that gain protection from predators by imitating a dangerous organism, often using conspicuous colours. The nineteenth-century naturalist Henry Bates first suggested this camouflage technique after noticing that several Amazonian butterfly species looked the same. The technique was later called after him. In Australian waters, the harmless harlequin snake eel sports the same black and white bandings as the highly toxic, yellow-lipped sea krait, ensuring no predator will attack. However, the success of Batesian mimicry depends on the ratio of mimics to originals. If a predator encounters too many that are edible, it will just assume none of the animals with those markings are dangerous, explains Martyn Robinson, an educational naturalist with the Australian Museum."
+        },
+        {
+          "label": "F",
+          "text": "An imitation of a more dangerous creature needn't be exact, just enough to make potential predators hesitate. The hawk moth caterpillar has markings resembling a snake's eyes on its abdomen. When confronted, the caterpillar pulls its head in and the 'eyes' flash open. Whether the potential predator thinks it has seen a snake, or is simply startled is unclear, but the outcome is that the caterpillar lives to see another day."
+        },
+        {
+          "label": "G",
+          "text": "In Queensland's tablelands, the chameleon gecko has another way of making predators hesitate. Its body is brown, but its tail is banded in black and white. Robinson explains that if attacked, the chameleon gecko will drop off its tail, which will wriggle around on the ground. Many lizards do this, but in the case of the chameleon gecko the tail bones actually rub against one another, so it squeaks. 'The predator is, of course, thoroughly absorbed by this black-and-white-striped, wriggling, squeaking thing on the ground, and the gecko can sneak away,' Robinson says. It's a one-time-only trick: the regrown tail is brown, the same as the gecko's body. Such precise disguise and elaborate trickery illustrate the limitless possibilities of nature. But, as Robinson points out, only the most successful illusionists are here to tell the tale."
+        }
+      ],
+      "questionGroups": [
+        {
+          "type": "matching",
+          "title": "Questions 14-18",
+          "instruction": "Reading Passage 2 has seven sections, A-G. Which section contains the following information?",
+          "optionsTitle": "Sections",
+          "options": [
+            {
+              "id": "A",
+              "text": "Section A"
+            },
+            {
+              "id": "B",
+              "text": "Section B"
+            },
+            {
+              "id": "C",
+              "text": "Section C"
+            },
+            {
+              "id": "D",
+              "text": "Section D"
+            },
+            {
+              "id": "E",
+              "text": "Section E"
+            },
+            {
+              "id": "F",
+              "text": "Section F"
+            },
+            {
+              "id": "G",
+              "text": "Section G"
+            }
+          ],
+          "questions": [
+            {
+              "id": "14",
+              "prompt": "a species that indicates to its young to move to a place where they are less visible",
+              "answer": "C"
+            },
+            {
+              "id": "15",
+              "prompt": "an instance where sound is used to help an animal escape",
+              "answer": "G"
+            },
+            {
+              "id": "16",
+              "prompt": "a creature that can use camouflage to match a range of different backgrounds",
+              "answer": "D"
+            },
+            {
+              "id": "17",
+              "prompt": "a claim that the majority of animals disguise themselves in some way",
+              "answer": "A"
+            },
+            {
+              "id": "18",
+              "prompt": "examples of animals that use camouflage to look like plants",
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "type": "matching",
+          "title": "Questions 19-23",
+          "instruction": "Match each statement with the correct person, A-F.",
+          "optionsTitle": "List of people",
+          "options": [
+            {
+              "id": "A",
+              "text": "Professor Mark Elgar"
+            },
+            {
+              "id": "B",
+              "text": "Paul Zborowski"
+            },
+            {
+              "id": "C",
+              "text": "Professor Gisela Kaplan"
+            },
+            {
+              "id": "D",
+              "text": "Dr Karen Cheney"
+            },
+            {
+              "id": "E",
+              "text": "Henry Bates"
+            },
+            {
+              "id": "F",
+              "text": "Martyn Robinson"
+            }
+          ],
+          "questions": [
+            {
+              "id": "19",
+              "prompt": "one species has a camouflage tactic that is not present from birth.",
+              "answer": "C"
+            },
+            {
+              "id": "20",
+              "prompt": "Species that live in an ancient environment have become very effective at camouflaging themselves.",
+              "answer": "B"
+            },
+            {
+              "id": "21",
+              "prompt": "Part of an animal is left behind to distract predators.",
+              "answer": "F"
+            },
+            {
+              "id": "22",
+              "prompt": "If it takes too long to find one kind of prey, animals will look for an alternative source food.",
+              "answer": "A"
+            },
+            {
+              "id": "23",
+              "prompt": "Camouflage can involve copying a threatening type of animals.",
+              "answer": "E"
+            }
+          ]
+        },
+        {
+          "type": "gap-fill",
+          "title": "Questions 24-26",
+          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+          "questions": [
+            {
+              "id": "24",
+              "prompt": "Dr Karen Cheney studies the bluestriped fangblenny on",
+              "suffix": "off Queensland's coast.",
+              "answer": "reefs"
+            },
+            {
+              "id": "25",
+              "prompt": "The striped cleaner wrasse gets rid of larger fish's",
+              "suffix": ".",
+              "answer": "parasites"
+            },
+            {
+              "id": "26",
+              "prompt": "The fangblenny can approach its",
+              "suffix": "without drawing attention.",
+              "answer": "prey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "label": "Passage 3",
+      "title": "The effectiveness of an online course",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "label": "1",
+          "text": "As access to the internet has continued to grow, web-based learning has continued to expand. With approximately half of the households in the United States (or 150 million people) connected to the internet, an estimated 2 million students are taking post-secondary courses that are fully delivered online. Millions of other students at all educational levels (primary, secondary, post-secondary) participate in online courses. However, the effectiveness of online courses, particularly in relation to individual student needs, perceptions, and student outcomes, is sometimes questioned."
+        },
+        {
+          "label": "2",
+          "text": "Common elements for learning in a typical classroom environment are the social and communicative interactions between student and teacher, and student and student. The ability to ask a question, to share an opinion with a fellow student, or to disagree with the point of view in a reading assignment are all fundamental learning activities. However, effective web-based learning requires adjustments on the part of students and teachers for successful interactions to occur, for example. Many online courses provide students and faculty, and students and students with the ability to interact with each other via an electronic bulletin or discussion board."
+        },
+        {
+          "label": "3",
+          "text": "While most studies show a link between interaction and satisfaction in web-based courses, some observers have cautioned that this is not always the case. Ruberg, Taylor and Moore, for example, observe that in order to interact successfully, students must adjust to the nonlinear nature of web-based learning. Typical face-to-face situations tend to be linear, focusing on a single discussion thread. Web-based learning sessions on an electronic bulletin board can have multiple threads with several discussions and interactions progressing simultaneously. Students respond to a teacher but also to other students, depending on their interest and points of view."
+        },
+        {
+          "label": "4",
+          "text": "Sproull and Kiesler caution about discussions based on misinformation, that continue because online an instructor cannot necessarily immediately correct or clarify a comment. As a result, students need to have the experience and knowledge base to sift through the discussion for misinformation. In online learning, the amount of student interaction and the number of comments can easily lead to what is described as information overload. Furthermore, comments in online discussions tend to be lengthier than in face-to-face situations. With more information from many sources, students need to be more attentive to both the who and what of a comment. Cartens Shat, an economist, states 'a wealth of information can create a poverty of attention.'"
+        },
+        {
+          "label": "5",
+          "text": "In examinations of interaction, the concept of 'presence', or a sense of being in a place and belonging to a group, has received attention. It is generally assumed that when a student is physically present in a face-to-face course, he or she has a sense of belonging to the class or group enrolled in the course and this sense of belonging is greater than that experienced on an online course. He or she listens to the discussion and may choose to raise a hand to comment, answer or ask a question. Furthermore, this same student may develop a relationship with other students in the class and discuss topics related to the class during a break. However, this is an assumption and not always true. For a variety of reasons, some students can also feel alienated in a face-to-face class and not feel part of a group."
+        },
+        {
+          "label": "6",
+          "text": "The idea of presence has been redefined in relation to an online course. The simplest definition of presence for an online course refers to a student's sense of being registered and belonging in a course, and the ability to interact with other students and an instructor even though physical contact is not available. However, as this concept is studied, the definition is expanding and being refined to include telepresence, cognitive presence, social presence, teaching presence, and other forms of presence. The term 'community' is related to presence, and refers to a group of individuals who belong to a social unit, such as students in a class. In an online course, however, terms such as communities of inquiry, communities of learners, and knowledge-building communities have evolved."
+        },
+        {
+          "label": "7",
+          "text": "As the definition of presence has expanded and evolved, a distinction has been made between interaction and presence, emphasizing that they are not the same. Interaction may indicate presence but it is also possible for a student to interact by posting a message on an electronic bulletin board, while not necessarily feeling that he or she is part of a group or a class."
+        },
+        {
+          "label": "8",
+          "text": "A study conducted by Professor Anthony Picciano used questionnaires to determine students' attitudes in relation to their interactions and sense of purpose in online courses. An attempt was made to go beyond student perceptions of interaction and performance and to include perceptions of social presence, as well as actual participation in class activities. In addition, data was collected on performance measures that related specifically to course objectives. While much of the research, including this study, supports the strong relationship between students' perception of interaction and perceived learning, the results of the study indicated that the relationship of actual measures of interaction and performance is mixed. The success of many online courses is dependent upon the nature of student-to-student and student-to-faculty interaction. However, how interaction affects learning outcomes and what the relationships between the two are, is in need of further study."
+        }
+      ],
+      "questionGroups": [
+        {
+          "type": "multiple-choice",
+          "title": "Questions 27-31",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "id": "27",
+              "prompt": "Which of the following is mentioned in the article in relation to classroom-based learning?",
+              "choices": [
+                {
+                  "id": "A",
+                  "text": "the development of academic skills"
+                },
+                {
+                  "id": "B",
+                  "text": "the documenting of information"
+                },
+                {
+                  "id": "C",
+                  "text": "the completion of assignments"
+                },
+                {
+                  "id": "D",
+                  "text": "the exchange of ideas"
+                }
+              ],
+              "answer": "D"
+            },
+            {
+              "id": "28",
+              "prompt": "Ruberg, Taylor and Moore point out that web-based learning requires learners to",
+              "choices": [
+                {
+                  "id": "A",
+                  "text": "think sequentially"
+                },
+                {
+                  "id": "B",
+                  "text": "research different points of view"
+                },
+                {
+                  "id": "C",
+                  "text": "limit their responses to other students"
+                },
+                {
+                  "id": "D",
+                  "text": "follow more than one discussion at a time"
+                }
+              ],
+              "answer": "D"
+            },
+            {
+              "id": "29",
+              "prompt": "What problem did Sproull and Kiesler identify with online discussions?",
+              "choices": [
+                {
+                  "id": "A",
+                  "text": "Online discussions demand less attention than face-to-face ones."
+                },
+                {
+                  "id": "B",
+                  "text": "Teachers have difficulty monitoring the length of comments."
+                },
+                {
+                  "id": "C",
+                  "text": "Face-to-face interactions between students are lost."
+                },
+                {
+                  "id": "D",
+                  "text": "There is a delay in giving feedback to students."
+                }
+              ],
+              "answer": "D"
+            },
+            {
+              "id": "30",
+              "prompt": "The writer refers to the concept of online presence as",
+              "choices": [
+                {
+                  "id": "A",
+                  "text": "listening to a discussion."
+                },
+                {
+                  "id": "B",
+                  "text": "a feeling of being part of a group."
+                },
+                {
+                  "id": "C",
+                  "text": "posting ideas on an electronic bulletin board."
+                },
+                {
+                  "id": "D",
+                  "text": "having a good relationship with other students."
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "31",
+              "prompt": "What was a focus of Anthony Picciano's study?",
+              "choices": [
+                {
+                  "id": "A",
+                  "text": "to examine the relationship between presence and course outcomes"
+                },
+                {
+                  "id": "B",
+                  "text": "to analyse the differences between online and class-based courses"
+                },
+                {
+                  "id": "C",
+                  "text": "to examine the importance of being present in a classroom"
+                },
+                {
+                  "id": "D",
+                  "text": "to demonstrate that online courses are not generally effective"
+                }
+              ],
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "type": "yes-no-not-given",
+          "title": "Questions 32-36",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "questions": [
+            {
+              "id": "32",
+              "prompt": "The ability of online courses to meet an individual participant's needs is unclear.",
+              "answer": "YES"
+            },
+            {
+              "id": "33",
+              "prompt": "Researchers caution against building strong online relationships.",
+              "answer": "NOT GIVEN"
+            },
+            {
+              "id": "34",
+              "prompt": "Common assumptions about the benefits of face-to-face courses have proved to be correct.",
+              "answer": "NO"
+            },
+            {
+              "id": "35",
+              "prompt": "The meaning of presence is still being clarified.",
+              "answer": "YES"
+            },
+            {
+              "id": "36",
+              "prompt": "Research on the impacts of interaction on learning outcomes has produced consistent results.",
+              "answer": "NO"
+            }
+          ]
+        },
+        {
+          "type": "matching",
+          "title": "Questions 37-40",
+          "instruction": "Complete each sentence with the correct ending, A-F.",
+          "optionsTitle": "Endings",
+          "options": [
+            {
+              "id": "A",
+              "text": "is dependent on adapting to unfamiliar interaction formats."
+            },
+            {
+              "id": "B",
+              "text": "is key in determining whether a student has a sense of belonging in course"
+            },
+            {
+              "id": "C",
+              "text": "is a subject that the writer believes will require more study."
+            },
+            {
+              "id": "D",
+              "text": "is essential to excel in study and scholarship"
+            },
+            {
+              "id": "E",
+              "text": "is key in determining whether a student feels they have learned something from a course"
+            },
+            {
+              "id": "F",
+              "text": "is important for determining their validity."
+            }
+          ],
+          "questions": [
+            {
+              "id": "37",
+              "prompt": "The ability to succeed in an online course",
+              "answer": "A"
+            },
+            {
+              "id": "38",
+              "prompt": "The need to be mindful of the source of comments in an online discussion",
+              "answer": "F"
+            },
+            {
+              "id": "39",
+              "prompt": "In online courses, it is presence, rather than interaction, that",
+              "answer": "B"
+            },
+            {
+              "id": "40",
+              "prompt": "The relationship between interaction and learning achievement",
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
