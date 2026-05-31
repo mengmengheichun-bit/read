@@ -188,8 +188,11 @@ function showFloatHighlight(){
   if(!$('reading').contains(range.commonAncestorContainer)){box.classList.remove('show'); return;}
   selectionRange=range.cloneRange();
   const rect=range.getBoundingClientRect();
-  box.style.left=Math.min(window.innerWidth-150, Math.max(8, rect.right+8))+'px';
-  box.style.top=Math.min(window.innerHeight-48, Math.max(8, rect.top-8))+'px';
+  if(!rect || (rect.width===0 && rect.height===0)){box.classList.remove('show'); return;}
+  const left=Math.min(window.innerWidth-150, Math.max(8, rect.left + rect.width/2 - 55));
+  const top = rect.bottom + 10 < window.innerHeight - 45 ? rect.bottom + 10 : Math.max(8, rect.top - 50);
+  box.style.left=left+'px';
+  box.style.top=top+'px';
   box.classList.add('show');
 }
 function applyFloatingHighlight(){
@@ -203,7 +206,35 @@ function applyFloatingHighlight(){
 }
 
 $('testSelect').onchange=e=>{currentTestIndex=Number(e.target.value);currentPassageIndex=0;checked=false;resetTimer();render();saveLibrary()}
-if($('saveTitleBtn')) $('saveTitleBtn').onclick=saveCurrentTitle; if($('titleInput')) $('titleInput').addEventListener('keydown',e=>{if(e.key==='Enter')saveCurrentTitle()}); if($('timerStartBtn')) $('timerStartBtn').onclick=startPauseTimer; if($('timerResetBtn')) $('timerResetBtn').onclick=resetTimer; if($('floatHighlightBtn')) $('floatHighlightBtn').onclick=applyFloatingHighlight; if($('floatCloseBtn')) $('floatCloseBtn').onclick=()=>$('floatHL').classList.remove('show'); document.addEventListener('selectionchange',()=>setTimeout(showFloatHighlight,0));
+if($('saveTitleBtn')) $('saveTitleBtn').onclick=saveCurrentTitle; if($('titleInput')) $('titleInput').addEventListener('keydown',e=>{if(e.key==='Enter')saveCurrentTitle()}); if($('timerStartBtn')) $('timerStartBtn').onclick=startPauseTimer; if($('timerResetBtn')) $('timerResetBtn').onclick=resetTimer; if($('floatHighlightBtn')) $('floatHighlightBtn').onclick=applyFloatingHighlight; if($('floatCloseBtn')) $('floatCloseBtn').onclick=()=>$('floatHL').classList.remove('show'); 
+
+let isSelectingText=false;
+document.addEventListener('mousedown',e=>{
+  if($('reading') && $('reading').contains(e.target)){
+    isSelectingText=true;
+    if($('floatHL')) $('floatHL').classList.remove('show');
+  }
+});
+document.addEventListener('mouseup',e=>{
+  if(!isSelectingText)return;
+  isSelectingText=false;
+  setTimeout(showFloatHighlight,80);
+});
+document.addEventListener('touchstart',e=>{
+  if($('reading') && $('reading').contains(e.target)){
+    isSelectingText=true;
+    if($('floatHL')) $('floatHL').classList.remove('show');
+  }
+},{passive:true});
+document.addEventListener('touchend',e=>{
+  if(!isSelectingText)return;
+  isSelectingText=false;
+  setTimeout(showFloatHighlight,180);
+});
+document.addEventListener('scroll',()=>{
+  if($('floatHL')) $('floatHL').classList.remove('show');
+},true);
+
 $('syncBtn').onclick=syncWord;$('loadBtn').onclick=()=>$('fileInput').click();$('fileInput').onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{importJsonObject(JSON.parse(r.result))}catch(err){toast('JSON lỗi format')}};r.readAsText(f);e.target.value=''}
 function importJsonObject(obj){const tests=normalizeTests(obj);if(!tests.length)return toast('JSON không đúng format');mergeTests(tests,true);toast('Đã thêm/cập nhật '+tests.length+' bài. Tổng: '+library.length)}
 $('checkBtn').onclick=check;$('resetBtn').onclick=resetAnswers;$('minus').onclick=()=>{$('fontRange').value=Math.max(15,Number($('fontRange').value)-1);setFont($('fontRange').value)};$('plus').onclick=()=>{$('fontRange').value=Math.min(26,Number($('fontRange').value)+1);setFont($('fontRange').value)};$('fontRange').oninput=e=>setFont(e.target.value);$('hlBtn').onclick=highlight;$('clearHl').onclick=clearHl;$('search').oninput=doSearch;$('prev').onclick=()=>moveHit(-1);$('next').onclick=()=>moveHit(1);$('exportJson').onclick=exportJson
