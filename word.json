@@ -1,537 +1,1129 @@
 {
-  "id": "ielts-reading-mungo-video-games-blind-change-full",
-  "title": "IELTS Reading Practice - Mungo Lady, Video Games, Blind to Change",
-  "duration": 60,
-  "sourceFile": "ielts_reading_from_images_v3(2).docx",
-  "sourceNotes": "Converted from the uploaded Word file. This version uses the complete Passage 3 text and the full endings list for Questions 36-40 from the uploaded document.",
-  "passages": [
+  "format": "ielts-reading-library",
+  "version": 2,
+  "exportedAt": "2026-05-31T06:28:53.934Z",
+  "tests": [
     {
-      "id": "p1",
-      "label": "Passage 1",
-      "title": "Mungo Lady and Mungo Man",
-      "subtitle": "Controversies in Australian Prehistory",
-      "paragraphs": [
+      "id": "ielts-reading-mungo-video-games-blind-change-full",
+      "title": "IELTS Reading Practice - Mungo Lady, Video Games, Blind to Change",
+      "duration": 60,
+      "sourceFile": "ielts_reading_from_images_v3(2).docx",
+      "sourceNotes": "Converted from the uploaded Word file. This version uses the complete Passage 3 text and the full endings list for Questions 36-40 from the uploaded document.",
+      "passages": [
         {
-          "label": "1",
-          "text": "Fifty thousand years ago, a lush landscape greeted the first Australians moving towards the south-east of the continent. Temperatures were cooler than now. Megafauna - giant prehistoric animals such as marsupial lions and the rhinoceros-sized diprotodon - were abundant. Freshwater lakes in areas of western New South Wales (NSW) were brimming with fish. But change was coming. By 40,000 years ago, water levels had started to drop."
-        },
-        {
-          "label": "2",
-          "text": "A study of the sediments and graves of Lake Mungo, a dry lake bed in western NSW, has uncovered the muddy layers deposited as the lake began to dry up. Forty thousand years ago, families took refuge at the lake from the encroaching desert, leaving artefacts such as stone tools, which researchers used to determine that the first wanderers came to the area between 46,000 and 50,000 years ago. By 20,000 years ago, the lake had become the dry, dusty hole it is today. This area was first examined by the University of Melbourne geologist Professor Jim Bowler in 1969. He was searching for ancient lakes and came across the remains of a woman who had been buried with some ceremony; she was given the name ‘Mungo Lady’. In 1974, he found a second set of remains, Mungo Man, buried 300 metres away. Bowler's comprehensive study of different sediment layers has concluded that both graves are 40,000 years old."
-        },
-        {
-          "label": "3",
-          "text": "This is much younger than the 62,000 years Mungo Man was attributed with in 1999 by a team led by Professor Alan Thorne, of the Australian National University. Thorne is the country's leading opponent of the ‘Out of Africa’ theory - that modern humans spread around the globe from Africa about 100,000 years ago. The revision of Mungo Man's age has refocused attention on academic disputes about mankind's origins."
-        },
-        {
-          "label": "4",
-          "text": "The arrival date of these early Australians is linked to another vexed question: the reason for the disappearance of the megafauna. Dr Tim Flannery, a proponent of the controversial theory that these animals were wiped out by the extreme hunting practices of humans, claims that the new Mungo dates support this view. For Bowler, however, these debates are speculative distractions. At 40,000 years old, he argues, Mungo Man and Mungo Lady remain Australia's oldest human burials and the earliest evidence on Earth of cultural sophistication. ‘At Lake Mungo, we have a cameo of people reacting to environmental change. It is one of the great stories of the people of the world.’"
-        },
-        {
-          "label": "5",
-          "text": "Two rival groups of researchers have each attacked the techniques used by the other to ascertain the date of Mungo Man. In the 1999 study, Thorne's team used three techniques to date Mungo Man - bone, tooth enamel and sand. Bowler has strongly challenged the results ever since. Dating human bones is ‘notoriously unreliable,’ he says. In addition, the sand sample used by Thorne's group was taken hundreds of metres from the burial site."
-        },
-        {
-          "label": "6",
-          "text": "Bowler has stated that it is not difficult ‘to realise that the age of sand is not the same as the age of the grave’. He says his team's results are based on careful fieldwork, crosschecked between four laboratories, while Thorne's team misinterpreted the evidence, ‘locked in a laboratory in Canberra’. Thorne counters that Bowler's team used one dating technique, while his used three. Best practice is to have at least two methods producing the same result. A Thorne team member, Professor Rainer Grün, says the fact that the latest results were consistent between laboratories doesn't mean they are correct. ‘We now have two data sets that are contradictory. I do not have a plausible explanation.’"
-        },
-        {
-          "label": "7",
-          "text": "Thorne recently made headlines with a study of Mungo Man's DNA, which he claimed supported his idea that modern humans developed from archaic humans in several places around the world, rather than emerging from Africa a relatively short time ago. Now, however, Thorne says the age of Mungo Man is irrelevant. Recent fossil finds show that modern humans were in China 110,000 years ago. ‘So he has a long time to arrive in Australia. It doesn't matter if he is 40,000 or 60,000 years old.’"
-        },
-        {
-          "label": "8",
-          "text": "In 2001, a member of Bowler's team, Dr Richard Roberts of Wollongong University, along with Flannery, Director of the South Australian Museum, published research on the extinction of the megafauna. They dated 28 sites across the continent, arguing that their analysis showed that the megafauna died out suddenly 46,600 years ago. This conclusion has been challenged by other scientists, including Dr Judith Field of the University of Sydney and Dr Richard Fullager of the Australian Museum, who point to the presence of megafauna fossils at the 36,000-year-old Cuddie Springs site in NSW."
-        },
-        {
-          "label": "9",
-          "text": "Flannery praises the Bowler team's research as thorough and rigorous. He says the finding that humans arrived at Lake Mungo between 46,000 and 50,000 years ago supports the idea that that was a critical time in Australia's history. There is no evidence of a dramatic climate change at that time, he says. ‘It's my view that humans arrived and megafauna extinction took place in almost the same geological instant.’ Bowler, however, is sceptical of Flannery's theory about the disappearance of the giant animals. He argues that climate change 40,000 years ago was more intense than has been previously realised and could have played an important role in their extinction."
-        }
-      ],
-      "questionGroups": [
-        {
-          "type": "matchOptions",
-          "title": "Questions 1-8",
-          "instruction": "Match each theory with the correct researcher(s), A-F. NB You may use any letter more than once.",
-          "options": [
+          "id": "p1",
+          "label": "Passage 1",
+          "title": "Mungo Lady and Mungo Man",
+          "subtitle": "Controversies in Australian Prehistory",
+          "paragraphs": [
             {
-              "id": "A",
-              "text": "Jim Bowler"
+              "label": "1",
+              "text": "Fifty thousand years ago, a lush landscape greeted the first Australians moving towards the south-east of the continent. Temperatures were cooler than now. Megafauna - giant prehistoric animals such as marsupial lions and the rhinoceros-sized diprotodon - were abundant. Freshwater lakes in areas of western New South Wales (NSW) were brimming with fish. But change was coming. By 40,000 years ago, water levels had started to drop."
             },
             {
-              "id": "B",
-              "text": "Alan Thorne"
+              "label": "2",
+              "text": "A study of the sediments and graves of Lake Mungo, a dry lake bed in western NSW, has uncovered the muddy layers deposited as the lake began to dry up. Forty thousand years ago, families took refuge at the lake from the encroaching desert, leaving artefacts such as stone tools, which researchers used to determine that the first wanderers came to the area between 46,000 and 50,000 years ago. By 20,000 years ago, the lake had become the dry, dusty hole it is today. This area was first examined by the University of Melbourne geologist Professor Jim Bowler in 1969. He was searching for ancient lakes and came across the remains of a woman who had been buried with some ceremony; she was given the name ‘Mungo Lady’. In 1974, he found a second set of remains, Mungo Man, buried 300 metres away. Bowler's comprehensive study of different sediment layers has concluded that both graves are 40,000 years old."
             },
             {
-              "id": "C",
-              "text": "Tim Flannery"
+              "label": "3",
+              "text": "This is much younger than the 62,000 years Mungo Man was attributed with in 1999 by a team led by Professor Alan Thorne, of the Australian National University. Thorne is the country's leading opponent of the ‘Out of Africa’ theory - that modern humans spread around the globe from Africa about 100,000 years ago. The revision of Mungo Man's age has refocused attention on academic disputes about mankind's origins."
             },
             {
-              "id": "D",
-              "text": "Rainer Grün"
+              "label": "4",
+              "text": "The arrival date of these early Australians is linked to another vexed question: the reason for the disappearance of the megafauna. Dr Tim Flannery, a proponent of the controversial theory that these animals were wiped out by the extreme hunting practices of humans, claims that the new Mungo dates support this view. For Bowler, however, these debates are speculative distractions. At 40,000 years old, he argues, Mungo Man and Mungo Lady remain Australia's oldest human burials and the earliest evidence on Earth of cultural sophistication. ‘At Lake Mungo, we have a cameo of people reacting to environmental change. It is one of the great stories of the people of the world.’"
             },
             {
-              "id": "E",
-              "text": "Richard Roberts and Tim Flannery"
+              "label": "5",
+              "text": "Two rival groups of researchers have each attacked the techniques used by the other to ascertain the date of Mungo Man. In the 1999 study, Thorne's team used three techniques to date Mungo Man - bone, tooth enamel and sand. Bowler has strongly challenged the results ever since. Dating human bones is ‘notoriously unreliable,’ he says. In addition, the sand sample used by Thorne's group was taken hundreds of metres from the burial site."
             },
             {
-              "id": "F",
-              "text": "Judith Field and Richard Fullager"
+              "label": "6",
+              "text": "Bowler has stated that it is not difficult ‘to realise that the age of sand is not the same as the age of the grave’. He says his team's results are based on careful fieldwork, crosschecked between four laboratories, while Thorne's team misinterpreted the evidence, ‘locked in a laboratory in Canberra’. Thorne counters that Bowler's team used one dating technique, while his used three. Best practice is to have at least two methods producing the same result. A Thorne team member, Professor Rainer Grün, says the fact that the latest results were consistent between laboratories doesn't mean they are correct. ‘We now have two data sets that are contradictory. I do not have a plausible explanation.’"
+            },
+            {
+              "label": "7",
+              "text": "Thorne recently made headlines with a study of Mungo Man's DNA, which he claimed supported his idea that modern humans developed from archaic humans in several places around the world, rather than emerging from Africa a relatively short time ago. Now, however, Thorne says the age of Mungo Man is irrelevant. Recent fossil finds show that modern humans were in China 110,000 years ago. ‘So he has a long time to arrive in Australia. It doesn't matter if he is 40,000 or 60,000 years old.’"
+            },
+            {
+              "label": "8",
+              "text": "In 2001, a member of Bowler's team, Dr Richard Roberts of Wollongong University, along with Flannery, Director of the South Australian Museum, published research on the extinction of the megafauna. They dated 28 sites across the continent, arguing that their analysis showed that the megafauna died out suddenly 46,600 years ago. This conclusion has been challenged by other scientists, including Dr Judith Field of the University of Sydney and Dr Richard Fullager of the Australian Museum, who point to the presence of megafauna fossils at the 36,000-year-old Cuddie Springs site in NSW."
+            },
+            {
+              "label": "9",
+              "text": "Flannery praises the Bowler team's research as thorough and rigorous. He says the finding that humans arrived at Lake Mungo between 46,000 and 50,000 years ago supports the idea that that was a critical time in Australia's history. There is no evidence of a dramatic climate change at that time, he says. ‘It's my view that humans arrived and megafauna extinction took place in almost the same geological instant.’ Bowler, however, is sceptical of Flannery's theory about the disappearance of the giant animals. He argues that climate change 40,000 years ago was more intense than has been previously realised and could have played an important role in their extinction."
             }
           ],
-          "questions": [
+          "questionGroups": [
             {
-              "id": "1",
-              "prompt": "Our human ancestors did not originate in only one area.",
-              "answer": "B"
+              "type": "matchOptions",
+              "title": "Questions 1-8",
+              "instruction": "Match each theory with the correct researcher(s), A-F. NB You may use any letter more than once.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Jim Bowler"
+                },
+                {
+                  "id": "B",
+                  "text": "Alan Thorne"
+                },
+                {
+                  "id": "C",
+                  "text": "Tim Flannery"
+                },
+                {
+                  "id": "D",
+                  "text": "Rainer Grün"
+                },
+                {
+                  "id": "E",
+                  "text": "Richard Roberts and Tim Flannery"
+                },
+                {
+                  "id": "F",
+                  "text": "Judith Field and Richard Fullager"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "1",
+                  "prompt": "Our human ancestors did not originate in only one area.",
+                  "answer": "B"
+                },
+                {
+                  "id": "2",
+                  "prompt": "The extinction of the megafauna happened within a brief period.",
+                  "answer": "E"
+                },
+                {
+                  "id": "3",
+                  "prompt": "The megafauna died out as a result of human activity.",
+                  "answer": "C"
+                },
+                {
+                  "id": "4",
+                  "prompt": "The similarity of results does not always guarantee their validity.",
+                  "answer": "D"
+                },
+                {
+                  "id": "5",
+                  "prompt": "How old Mungo Man is, is unimportant.",
+                  "answer": "B"
+                },
+                {
+                  "id": "6",
+                  "prompt": "There is evidence to disprove the theory of mass megafauna extinction.",
+                  "answer": "F"
+                },
+                {
+                  "id": "7",
+                  "prompt": "An extreme environmental change occurred at the time that humans first moved into the Lake Mungo area.",
+                  "answer": "A"
+                },
+                {
+                  "id": "8",
+                  "prompt": "The earliest evidence of advanced human culture is found in Australia.",
+                  "answer": "A"
+                }
+              ]
             },
             {
-              "id": "2",
-              "prompt": "The extinction of the megafauna happened within a brief period.",
-              "answer": "E"
-            },
-            {
-              "id": "3",
-              "prompt": "The megafauna died out as a result of human activity.",
-              "answer": "C"
-            },
-            {
-              "id": "4",
-              "prompt": "The similarity of results does not always guarantee their validity.",
-              "answer": "D"
-            },
-            {
-              "id": "5",
-              "prompt": "How old Mungo Man is, is unimportant.",
-              "answer": "B"
-            },
-            {
-              "id": "6",
-              "prompt": "There is evidence to disprove the theory of mass megafauna extinction.",
-              "answer": "F"
-            },
-            {
-              "id": "7",
-              "prompt": "An extreme environmental change occurred at the time that humans first moved into the Lake Mungo area.",
-              "answer": "A"
-            },
-            {
-              "id": "8",
-              "prompt": "The earliest evidence of advanced human culture is found in Australia.",
-              "answer": "A"
+              "type": "tfng",
+              "title": "Questions 9-13",
+              "instruction": "TRUE if the statement agrees with the information; FALSE if the statement contradicts the information; NOT GIVEN if there is no information on this.",
+              "questions": [
+                {
+                  "id": "9",
+                  "prompt": "Objects found in the Lake Mungo area were used to date the arrival of humans.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "10",
+                  "prompt": "Ancient weapons were found in the Lake Mungo area.",
+                  "answer": "FALSE"
+                },
+                {
+                  "id": "11",
+                  "prompt": "Scientists agree about the age of Mungo Man.",
+                  "answer": "FALSE"
+                },
+                {
+                  "id": "12",
+                  "prompt": "Thorne's research involved analysing more than one material.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "13",
+                  "prompt": "Bowler has criticised the research methods used by Thorne.",
+                  "answer": "TRUE"
+                }
+              ]
             }
           ]
         },
         {
-          "type": "tfng",
-          "title": "Questions 9-13",
-          "instruction": "TRUE if the statement agrees with the information; FALSE if the statement contradicts the information; NOT GIVEN if there is no information on this.",
-          "questions": [
+          "id": "p2",
+          "label": "Passage 2",
+          "title": "The attraction of video games",
+          "subtitle": "The world's love of video games has much to do with people's desires and motives",
+          "paragraphs": [
             {
-              "id": "9",
-              "prompt": "Objects found in the Lake Mungo area were used to date the arrival of humans.",
-              "answer": "TRUE"
+              "label": "A",
+              "text": "Video games, it is often claimed, are about wasting time. It is a misunderstanding that players and game makers have been trying to correct for many years. While movies and television are endlessly analysed in the media, games are often dismissed as irresponsible, unimportant by-products of the broader digital revolution. But a growing number of experts disagree. This is, after all, an entertainment medium that worldwide makes $50b a year. Using ideas from psychology and sociology, theorists and designers suggest that our love of video games may actually have important things to tell us about our most basic desires and motivations. Game design has become big business and has led to the creation of a multitude of companies. The industry attitude toward training has changed radically, says prominent game researcher Jesper Juul. ‘I recall hearing professionals claim that game design was a strange and unteachable art, but now this attitude has mostly faded.’ Designing video games is increasingly recognised as a valid field of university study throughout the world."
             },
             {
-              "id": "10",
-              "prompt": "Ancient weapons were found in the Lake Mungo area.",
-              "answer": "FALSE"
+              "label": "B",
+              "text": "Central to an understanding of games is the theory that games are fun because they teach us in a way that our brains prefer, that is, through systems and puzzles. Raph Koster, designer of multiplayer fantasy games, points out that an effective learning environment is one in which failure is acceptable, even welcomed. Accordingly, Koster says that in games, the player enters into a situation where the rules of the real world don't apply - and typically being judged on success and failure is part of the real world. When gaming, people feel free to try things and to learn, and not worry about what might happen. Consistently, Koster says, the best games are the ones that provide us with interesting tools such as weapons or magic, and allow us to experiment with them. For example, in one early game, players are given the ability to jump, and can practise this for as long as they like, but to get to the next stage they need to master this ability so they can leap over an enemy and onto a platform. ‘Games allow us to create these little systems where learning is controlled really brilliantly,’ says Margaret Robertson, director at a London-based game design company. ‘Something we don't talk about is that, actually, one of the strengths of games is the vague sense of disapproval that still surrounds them - they feel like something that's forbidden!’ And that can, of course, be very exciting."
             },
             {
-              "id": "11",
-              "prompt": "Scientists agree about the age of Mungo Man.",
-              "answer": "FALSE"
+              "label": "C",
+              "text": "Another important element in the popularity of games is the player's ability to determine what happens. Games tap into our need to have direction; this is very obvious in games where we shape the lives of virtual humans, but it's becoming a vital element of action adventures too. ‘Games are increasingly complex systems,’ says Dan Pinchbeck, an experimental game designer. ‘There's an emphasis on the pleasure of choosing and planning. We've moved quite dramatically away from the very first video games. These games mostly involved the player merely reacting to events. But games then became more about approaching a situation and making a plan depending on your preferred play style.’"
             },
             {
-              "id": "12",
-              "prompt": "Thorne's research involved analysing more than one material.",
-              "answer": "TRUE"
+              "label": "D",
+              "text": "Many studios design their games around reward systems. ‘A good game will have progression at the end of each level, but it will also provide surprise rewards halfway through,’ says Ben Weedon, a games studio consultant. In a game, you're essentially pressing the same buttons and doing the same things over and over again, so you need those occasional surprises to stay motivated."
             },
             {
-              "id": "13",
-              "prompt": "Bowler has criticised the research methods used by Thorne.",
-              "answer": "TRUE"
+              "label": "E",
+              "text": "Games have constantly evolved over the years and continue to do so right up to the present. Now, incorporating a narrative structure into a game is becoming increasingly important. Many games have adopted Hollywood's three-act structure, which is designed to maintain our loyalty to a particular game. As in many films, a short final act is often used to give a sense of acceleration towards a preferably startling climax. Opening levels of games are also short, because this flatters us into thinking we're making good progress, whereas the middle levels are more extensive."
+            },
+            {
+              "label": "F",
+              "text": "Games even tap into our friendships. The rise of multiplayer gaming means that gaming increasingly involves social interaction. And other businesses are taking notice and using this as an element in advertising their brands. Then there's the new concept of ‘gamification’, in which websites and smartphone apps are being designed like games, with high scores and achievement points to keep customers entertained. Research estimates that businesses spent more than $100m worldwide on gamification projects last year, a figure predicted to rise to $1.6b in the next four years."
+            },
+            {
+              "label": "G",
+              "text": "So, in fact, games aren't just an insignificant fad, as some people might suggest. They fulfil intrinsic human needs, whether we are conscious of it or not. The loop of learning control and rewards is at the heart of something very important, and very attractive."
+            }
+          ],
+          "questionGroups": [
+            {
+              "type": "matchingHeadings",
+              "title": "Questions 14-19",
+              "instruction": "Choose the correct heading for each section from the list of headings below. Drag the heading to the top of the correct paragraph, or use the dropdown.",
+              "options": [
+                {
+                  "id": "i",
+                  "text": "Being able to experiment without consequences"
+                },
+                {
+                  "id": "ii",
+                  "text": "Why stories are included in games"
+                },
+                {
+                  "id": "iii",
+                  "text": "The key role of the unexpected for game players"
+                },
+                {
+                  "id": "iv",
+                  "text": "Transferring features of games to other types of products"
+                },
+                {
+                  "id": "v",
+                  "text": "The age group that games most appeal to"
+                },
+                {
+                  "id": "vi",
+                  "text": "The development of the video game design industry"
+                },
+                {
+                  "id": "vii",
+                  "text": "Players' ability to control what occurs in games"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "14",
+                  "paragraph": "A",
+                  "answer": "vi"
+                },
+                {
+                  "id": "15",
+                  "paragraph": "B",
+                  "answer": "i"
+                },
+                {
+                  "id": "16",
+                  "paragraph": "C",
+                  "answer": "vii"
+                },
+                {
+                  "id": "17",
+                  "paragraph": "D",
+                  "answer": "iii"
+                },
+                {
+                  "id": "18",
+                  "paragraph": "E",
+                  "answer": "ii"
+                },
+                {
+                  "id": "19",
+                  "paragraph": "F",
+                  "answer": "iv"
+                }
+              ]
+            },
+            {
+              "type": "matchOptions",
+              "title": "Questions 20-23",
+              "instruction": "Match each statement with the correct expert, A-E. NB You may use any letter more than once.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Jesper Juul"
+                },
+                {
+                  "id": "B",
+                  "text": "Raph Koster"
+                },
+                {
+                  "id": "C",
+                  "text": "Margaret Robertson"
+                },
+                {
+                  "id": "D",
+                  "text": "Dan Pinchbeck"
+                },
+                {
+                  "id": "E",
+                  "text": "Ben Weedon"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "20",
+                  "prompt": "Players' involvement in games often includes thinking ahead.",
+                  "answer": "D"
+                },
+                {
+                  "id": "21",
+                  "prompt": "The inclusion of unanticipated elements keeps players interested.",
+                  "answer": "E"
+                },
+                {
+                  "id": "22",
+                  "prompt": "It's now accepted that creating video games is a skill that can be learned.",
+                  "answer": "A"
+                },
+                {
+                  "id": "23",
+                  "prompt": "Early games were much simpler than more recent ones.",
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "type": "gapfill",
+              "title": "Questions 24-26",
+              "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+              "questions": [
+                {
+                  "id": "24",
+                  "prompt": "Koster believes that games remove people's fear of _____.",
+                  "answer": "failure"
+                },
+                {
+                  "id": "25",
+                  "prompt": "Robertson's view is that games feel exciting partly because of the _____ that is associated with them.",
+                  "answer": "disapproval"
+                },
+                {
+                  "id": "26",
+                  "prompt": "Narrative games are often structured so that the first and last part are both _____.",
+                  "answer": "short"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "label": "Passage 3",
+          "title": "Blind to Change",
+          "subtitle": "How much of the world around you do you really see?",
+          "paragraphs": [
+            {
+              "label": "1",
+              "text": "Picture the following and prepare to be amazed. You're walking across a college campus when a stranger asks you for directions. While you're talking to him, two men pass between you carrying a wooden door. You feel a moment's irritation, but you carry on describing the route. When you've finished, you're told you've just taken part in a psychology experiment. ‘Did you notice anything after the two men passed with the door?’ the stranger asks. ‘No,’ you reply uneasily. He explains that the man who initially approached you walked off behind the door leaving him in his place. The first man now rejoins you. Comparing them, you notice that they are of different height and build and are dressed very differently."
+            },
+            {
+              "label": "2",
+              "text": "Daniel Simons of Harvard University found that 50% of participants missed the substitution because of what is called ‘change blindness’. When considered with a large number of recent experimental results, this phenomenon suggests we ‘see’ far less than we think we do. Rather than logging every detail of the visual scene, says Simons, we are actually highly selective. Our impression of seeing everything is just that. In fact, we extract a few details and rely on memory, or even our imagination, for the rest."
+            },
+            {
+              "label": "3",
+              "text": "Until recently, scientists believed that vision involved creating images within the brain. By forming detailed internal representations of our surroundings and comparing them over time, we could detect any alterations. However, in his book Consciousness Explained, philosopher Daniel Dennett argued that our brains only store a few key details about the world, which is why we can function effectively. According to Dennett, creating elaborate images in short-term memory would consume valuable cognitive resources. Instead, we record what has changed and assume everything else remains unchanged. As a result, we inevitably overlook some details. Experiments had demonstrated that we tend to ignore elements in our visual field that seem unimportant, such as a repeated word or line in a text. But even Dennett didn't fully realise just how little we actually ‘see.’"
+            },
+            {
+              "label": "4",
+              "text": "A year later, John Grimes from the University of Illinois drew attention by showing that people who were presented with computer-generated images of natural scenes failed to notice changes made while their eyes were, for example, scanning the scene or blinking. Dennett was pleased: ‘In hindsight, I wish I had been bolder, as the effects are more pronounced than I originally claimed.’ Subsequently, it was discovered that our eyes don't even need to be moving to be deceived. A typical laboratory experiment might display an image on a computer screen, like a couple dining on a terrace. The image would briefly disappear, replaced by a blank screen, then reappear with a significant change, such as a raised railing behind the couple. Many people search the screen for up to a minute before spotting the alteration, and some never see it."
+            },
+            {
+              "label": "5",
+              "text": "This is disconcerting. However, 'change blindness' is somewhat artificial because, in real-life scenarios, a visible motion usually signals a change. Yet, not always. As Simons points out, \"We all know the experience of missing a traffic signal change because we briefly looked away. 'Inattentional blindness' refers to not noticing a feature of a scene when you aren't paying attention to it.\""
+            },
+            {
+              "label": "6",
+              "text": "Last year, Simons showed people a video of a basketball game and asked them to count the passes made by one of the teams. After 45 seconds, a man in a gorilla suit slowly walked behind the players. Forty percent didn't notice him. When the tape was replayed, and they were simply told to watch it, they easily saw the gorilla. Some even doubted it was the same video."
+            },
+            {
+              "label": "7",
+              "text": "Now, consider if the viewers had been driving a car, and the man in the gorilla suit had been a pedestrian. Some estimates suggest that nearly half of all fatal motor vehicle accidents in the US result from driver error, including attention lapses. It's more than just academic interest that has spurred research into these cognitive errors."
+            },
+            {
+              "label": "8",
+              "text": "These errors prompt critical questions: how can we reconcile such significant lapses with our subjective experience of continuously perceiving a rich visual environment? Last year, Stephen Kosslyn from Harvard University demonstrated that imagining a scene activates parts of the visual cortex similarly to actually seeing it. He argues that this supports the idea that we only absorb the information we consider important and mentally fill in the gaps where details are less crucial. \"The illusion that we see 'everything' is partly due to filling in gaps with memory,\" he says. \"These memories can be shaped by beliefs and expectations.\""
+            },
+            {
+              "label": "9",
+              "text": "Ronald Rensink from the University of British Columbia in Canada believes our perception of a detailed visual world comes from constructing internal representations. He suggests that the brain first creates a temporary layout of the visual scene, and then our attention enhances the resolution of the scene. \"What attention does,\" he explains, \"is stabilize these representations so they form distinct objects. Once attention shifts, they revert to an unstable, unresolved state.\""
+            },
+            {
+              "label": "10",
+              "text": "While Rensink or Kosslyn propose that internal images or memory play some role, others argue that we can perceive visual richness without storing any of that richness in our brains. Kevin O'Regan, an experimental psychologist, contends that our brains do not store a visual image of the world. Instead, we rely on the external visual environment as different parts of a scene become relevant."
+            },
+            {
+              "label": "11",
+              "text": "According to O'Regan, our sense of controlling what we see is also an illusion. \"We believe that when something flickers outside the window, we choose to look,\" says Susan Blackmore from the University of the West of England, who supports O'Regan's view. \"In reality,\" she explains, \"our change detection mechanisms automatically drag our attention to various stimuli.\""
+            }
+          ],
+          "questionGroups": [
+            {
+              "type": "matchOptions",
+              "title": "Questions 27-30",
+              "instruction": "Match each person with the correct claim, A-G.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "People overlook changes that happen during eye movements."
+                },
+                {
+                  "id": "B",
+                  "text": "At times, we fail to notice something because we choose to deceive ourselves."
+                },
+                {
+                  "id": "C",
+                  "text": "Retaining every image and memory would hinder our ability to function effectively."
+                },
+                {
+                  "id": "D",
+                  "text": "Sometimes, people overlook the significance of a crucial figure in a scene."
+                },
+                {
+                  "id": "E",
+                  "text": "We misunderstand what we see because we rely on our imagination."
+                },
+                {
+                  "id": "F",
+                  "text": "We don't have complete control over what captures our attention."
+                },
+                {
+                  "id": "G",
+                  "text": "Imagining a scene and physically being there impact our visual processes in similar ways."
+                }
+              ],
+              "questions": [
+                {
+                  "id": "27",
+                  "prompt": "Daniel Dennett",
+                  "answer": "C"
+                },
+                {
+                  "id": "28",
+                  "prompt": "John Grimes",
+                  "answer": "A"
+                },
+                {
+                  "id": "29",
+                  "prompt": "Stephen Kosslyn",
+                  "answer": "G"
+                },
+                {
+                  "id": "30",
+                  "prompt": "Kevin O'Regan",
+                  "answer": "F"
+                }
+              ]
+            },
+            {
+              "type": "tfng",
+              "title": "Questions 31-35",
+              "instruction": "TRUE if the statement agrees with the information; FALSE if the statement contradicts the information; NOT GIVEN if there is no information on this.",
+              "questions": [
+                {
+                  "id": "31",
+                  "prompt": "One expert expressed regret for having underemphasized his argument in a publication.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "32",
+                  "prompt": "We overlook insignificant items that come into our view.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "33",
+                  "prompt": "Research into cognitive errors might potentially save lives.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "34",
+                  "prompt": "The aging process increases the need to fill in gaps in our visual perception.",
+                  "answer": "NOT GIVEN"
+                },
+                {
+                  "id": "35",
+                  "prompt": "Our eyes are only at risk of being deceived when they are in motion.",
+                  "answer": "FALSE"
+                }
+              ]
+            },
+            {
+              "type": "matchOptions",
+              "title": "Questions 36-40",
+              "instruction": "Complete each sentence with the correct ending, A-G.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "is not backed by scientific evidence."
+                },
+                {
+                  "id": "B",
+                  "text": "is provided by memory."
+                },
+                {
+                  "id": "C",
+                  "text": "causes us to overlook other details."
+                },
+                {
+                  "id": "D",
+                  "text": "has been especially fruitful in recent times."
+                },
+                {
+                  "id": "E",
+                  "text": "has sparked significant public debate."
+                },
+                {
+                  "id": "F",
+                  "text": "is challenging for us to accept."
+                },
+                {
+                  "id": "G",
+                  "text": "helps us see the overall picture more clearly."
+                }
+              ],
+              "questions": [
+                {
+                  "id": "36",
+                  "prompt": "Concentrating on a particular aspect of an activity or scene",
+                  "answer": "C"
+                },
+                {
+                  "id": "37",
+                  "prompt": "The fact that we make visual errors",
+                  "answer": "F"
+                },
+                {
+                  "id": "38",
+                  "prompt": "The part of the picture that we fail to see clearly",
+                  "answer": "B"
+                },
+                {
+                  "id": "39",
+                  "prompt": "The idea that we see everything in our visual field",
+                  "answer": "A"
+                },
+                {
+                  "id": "40",
+                  "prompt": "Research into the nature of human vision",
+                  "answer": "E"
+                }
+              ]
             }
           ]
         }
       ]
     },
     {
-      "id": "p2",
-      "label": "Passage 2",
-      "title": "The attraction of video games",
-      "subtitle": "The world's love of video games has much to do with people's desires and motives",
-      "paragraphs": [
+      "id": "test-2-worlds-first-cities-camouflaged-creatures-online-course",
+      "title": "TEST 2 - IELTS Reading",
+      "duration": 60,
+      "sourceFile": "TEST 2.docx",
+      "passages": [
         {
-          "label": "A",
-          "text": "Video games, it is often claimed, are about wasting time. It is a misunderstanding that players and game makers have been trying to correct for many years. While movies and television are endlessly analysed in the media, games are often dismissed as irresponsible, unimportant by-products of the broader digital revolution. But a growing number of experts disagree. This is, after all, an entertainment medium that worldwide makes $50b a year. Using ideas from psychology and sociology, theorists and designers suggest that our love of video games may actually have important things to tell us about our most basic desires and motivations. Game design has become big business and has led to the creation of a multitude of companies. The industry attitude toward training has changed radically, says prominent game researcher Jesper Juul. ‘I recall hearing professionals claim that game design was a strange and unteachable art, but now this attitude has mostly faded.’ Designing video games is increasingly recognised as a valid field of university study throughout the world."
-        },
-        {
-          "label": "B",
-          "text": "Central to an understanding of games is the theory that games are fun because they teach us in a way that our brains prefer, that is, through systems and puzzles. Raph Koster, designer of multiplayer fantasy games, points out that an effective learning environment is one in which failure is acceptable, even welcomed. Accordingly, Koster says that in games, the player enters into a situation where the rules of the real world don't apply - and typically being judged on success and failure is part of the real world. When gaming, people feel free to try things and to learn, and not worry about what might happen. Consistently, Koster says, the best games are the ones that provide us with interesting tools such as weapons or magic, and allow us to experiment with them. For example, in one early game, players are given the ability to jump, and can practise this for as long as they like, but to get to the next stage they need to master this ability so they can leap over an enemy and onto a platform. ‘Games allow us to create these little systems where learning is controlled really brilliantly,’ says Margaret Robertson, director at a London-based game design company. ‘Something we don't talk about is that, actually, one of the strengths of games is the vague sense of disapproval that still surrounds them - they feel like something that's forbidden!’ And that can, of course, be very exciting."
-        },
-        {
-          "label": "C",
-          "text": "Another important element in the popularity of games is the player's ability to determine what happens. Games tap into our need to have direction; this is very obvious in games where we shape the lives of virtual humans, but it's becoming a vital element of action adventures too. ‘Games are increasingly complex systems,’ says Dan Pinchbeck, an experimental game designer. ‘There's an emphasis on the pleasure of choosing and planning. We've moved quite dramatically away from the very first video games. These games mostly involved the player merely reacting to events. But games then became more about approaching a situation and making a plan depending on your preferred play style.’"
-        },
-        {
-          "label": "D",
-          "text": "Many studios design their games around reward systems. ‘A good game will have progression at the end of each level, but it will also provide surprise rewards halfway through,’ says Ben Weedon, a games studio consultant. In a game, you're essentially pressing the same buttons and doing the same things over and over again, so you need those occasional surprises to stay motivated."
-        },
-        {
-          "label": "E",
-          "text": "Games have constantly evolved over the years and continue to do so right up to the present. Now, incorporating a narrative structure into a game is becoming increasingly important. Many games have adopted Hollywood's three-act structure, which is designed to maintain our loyalty to a particular game. As in many films, a short final act is often used to give a sense of acceleration towards a preferably startling climax. Opening levels of games are also short, because this flatters us into thinking we're making good progress, whereas the middle levels are more extensive."
-        },
-        {
-          "label": "F",
-          "text": "Games even tap into our friendships. The rise of multiplayer gaming means that gaming increasingly involves social interaction. And other businesses are taking notice and using this as an element in advertising their brands. Then there's the new concept of ‘gamification’, in which websites and smartphone apps are being designed like games, with high scores and achievement points to keep customers entertained. Research estimates that businesses spent more than $100m worldwide on gamification projects last year, a figure predicted to rise to $1.6b in the next four years."
-        },
-        {
-          "label": "G",
-          "text": "So, in fact, games aren't just an insignificant fad, as some people might suggest. They fulfil intrinsic human needs, whether we are conscious of it or not. The loop of learning control and rewards is at the heart of something very important, and very attractive."
-        }
-      ],
-      "questionGroups": [
-        {
-          "type": "matchingHeadings",
-          "title": "Questions 14-19",
-          "instruction": "Choose the correct heading for each section from the list of headings below. Drag the heading to the top of the correct paragraph, or use the dropdown.",
-          "options": [
+          "id": "p1",
+          "label": "Passage 1",
+          "title": "The world's first cities",
+          "subtitle": "The creation of Mesopotamian cities",
+          "paragraphs": [
             {
-              "id": "i",
-              "text": "Being able to experiment without consequences"
+              "label": "1",
+              "text": "The inhabitants of Mesopotamia - which now forms part of eastern Syria, southeastern Turkey and Iraq - lived for thousands of years on individual farms and in small, isolated communities, working relentlessly just to meet their basic needs. But then, about 6,000 years ago something remarkable happened. The people left the security of their family homes and villages and came together with others to create something far more complex and difficult: the world's first city, called Uruk."
             },
             {
-              "id": "ii",
-              "text": "Why stories are included in games"
+              "label": "2",
+              "text": "There is not much left now of Uruk, which is about 250 kilometres south of Iraq's capital Baghdad, but enough does remain to show that this initial experiment in urban living was extraordinarily successful. At its height, around 5,000 years ago, Uruk was home to more than 40,000 people. The outlines of the city walls indicate an enclosed area of about 600 hectares."
             },
             {
-              "id": "iii",
-              "text": "The key role of the unexpected for game players"
+              "label": "3",
+              "text": "The archaeological record of Uruk reveals the intensive building and rebuilding which went on for four or five centuries after the city's initial establishment. In that period the people of Uruk built a dozen or so large public buildings. They would carefully level what had stood before, and then build another structure on top, often trying out a different building material or an innovative technique. They seemed to be searching for ways in which architecture could express the revolutionary new social structures that had come into being there."
             },
             {
-              "id": "iv",
-              "text": "Transferring features of games to other types of products"
+              "label": "4",
+              "text": "Soon Uruk was not the only Mesopotamian city. People all across the flat plains of southern Mesopotamia were enjoying many of the benefits of city life. By about 4,500 years ago, 80 per cent of the Mesopotamian population lived in cities over 40 hectares in size, with populations of between 15,000 and 30,000 people. The emergence of these thriving communities, made up mostly of individuals and groups with no blood ties, was unprecedented in human history. Why did these extraordinary advances happen?"
             },
             {
-              "id": "v",
-              "text": "The age group that games most appeal to"
+              "label": "5",
+              "text": "Smaller communities in Mesopotamia sometimes decided to come together to make it easier to defend themselves from their enemies. But the underlying reason for the creation of cities can be found in the harshness of this particular environment. The area was a place of extremes, where narrow strips of fertile river valleys were bounded by thousands of kilometres of desert and unproductive wetlands. As the small amount of rainfall in the region was incapable of sustaining anything but very limited agriculture, it was only through sophisticated irrigation that isolated pieces of land were kept fertile. The Tigris and the Euphrates rivers provided water for irrigation, and were also the basis of a communication system that led to the spread of the latest concepts in farming."
             },
             {
-              "id": "vi",
-              "text": "The development of the video game design industry"
+              "label": "6",
+              "text": "In such a region, the only way for humans to prosper was by forming groups that could work together. The threat of famine, which could be caused by a prolonged drought or the sudden change in the course of a river, forced people to look outside their families, and work with their neighbours to create an elaborate system of dams, channels and canals to manage water. These projects needed specific skills and labour from outside the farmer's family, and this established more firmly the patterns of dependence that are at the heart of civilisation."
             },
             {
-              "id": "vii",
-              "text": "Players' ability to control what occurs in games"
+              "label": "7",
+              "text": "The intensive farming that came about in Mesopotamia was more efficient and productive and therefore generated a surplus of food, allowing crops in years of good harvests to be stored as protection against future less successful years. It also allowed more land for the production of a wider range of crops. It created a world where there was a need for traders and for skilled craftsmen: in short, it was the beginning of industry and consumerism. The concept of specialisation emerged within the population - with increasing numbers of soldiers, builders, musicians, doctors, fortune tellers - all supported directly or indirectly by agriculture. At the same time, this increased the control that powerful institutions, gradually emerging in the early cities, had over the urban population. Although large numbers of people were freed from the struggle of subsistence farming, they were now totally dependent on the institutions that employed them for their daily sustenance."
+            },
+            {
+              "label": "8",
+              "text": "The earliest and most powerful of these institutions was centred on the religious temple. Ever more temple structures were erected in the form of massive pyramids which had enormous storerooms for the output from the farming estates. Over time, the temples acquired these farms for themselves, and appointed a large number of staff to administer them and to deal with the storage of produce. The temples' greatest advantage was that each citizen was expected to give up some time to work for the temples. This meant that temples could easily store huge amounts of agricultural produce which could be used to buy yet more land. In addition, the revenues generated allowed the temples to serve as primitive kinds of banks making loans to people in difficult economic times."
+            },
+            {
+              "label": "9",
+              "text": "We know a surprising amount about these times thanks to the development of an important new technology: writing. In Mesopotamia basic records were inscribed in wet clay, unlike the fragile papyrus used in ancient Egypt and Greece. These first writings were largely lists of people and things, simple bookkeeping. But within several hundred years, writing systems had become more advanced capable of recording concepts as well as lists. The clay tablets used for writing were tough, and the fires that often burnt down the archives where they were stored usually merely baked them for future generations."
             }
           ],
-          "questions": [
+          "questionGroups": [
             {
-              "id": "14",
-              "paragraph": "A",
-              "answer": "vi"
+              "type": "tfng",
+              "title": "Questions 1-6",
+              "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "questions": [
+                {
+                  "id": "1",
+                  "prompt": "Some physical evidence of Uruk still exists in Iraq.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "2",
+                  "prompt": "The people of Uruk lived in large apartment buildings.",
+                  "answer": "FALSE"
+                },
+                {
+                  "id": "3",
+                  "prompt": "Builders in Uruk frequently experimented with new construction methods.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "4",
+                  "prompt": "Urban settlements were unusual in Mesopotamia 4,500 years ago.",
+                  "answer": "FALSE"
+                },
+                {
+                  "id": "5",
+                  "prompt": "The Tigris and the Euphrates rivers were important for the interchange of ideas.",
+                  "answer": "TRUE"
+                },
+                {
+                  "id": "6",
+                  "prompt": "When there were food shortages, farmers relied mainly on the help of their relatives.",
+                  "answer": "FALSE"
+                }
+              ]
             },
             {
-              "id": "15",
-              "paragraph": "B",
-              "answer": "i"
-            },
-            {
-              "id": "16",
-              "paragraph": "C",
-              "answer": "vii"
-            },
-            {
-              "id": "17",
-              "paragraph": "D",
-              "answer": "iii"
-            },
-            {
-              "id": "18",
-              "paragraph": "E",
-              "answer": "ii"
-            },
-            {
-              "id": "19",
-              "paragraph": "F",
-              "answer": "iv"
+              "type": "gap-fill",
+              "title": "Questions 7-13",
+              "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+              "questions": [
+                {
+                  "id": "7",
+                  "prompt": "Improved agricultural methods led to a food",
+                  "suffix": "being used as insurance.",
+                  "answer": "surplus"
+                },
+                {
+                  "id": "8",
+                  "prompt": "Temples were built in the shape of large",
+                  "suffix": ".",
+                  "answer": "pyramids"
+                },
+                {
+                  "id": "9",
+                  "prompt": "Temples had large",
+                  "suffix": "where produce was kept.",
+                  "answer": "storerooms"
+                },
+                {
+                  "id": "10",
+                  "prompt": "Many needed",
+                  "suffix": "to manage the farms.",
+                  "answer": "staff"
+                },
+                {
+                  "id": "11",
+                  "prompt": "Temples acted as",
+                  "suffix": "in hard economic periods.",
+                  "answer": "banks"
+                },
+                {
+                  "id": "12",
+                  "prompt": "People wrote on surfaces made of",
+                  "suffix": ".",
+                  "answer": "clay"
+                },
+                {
+                  "id": "13",
+                  "prompt": "Written records remained undamaged after",
+                  "suffix": "archives they were kept in.",
+                  "answer": "fires"
+                }
+              ]
             }
           ]
         },
         {
-          "type": "matchOptions",
-          "title": "Questions 20-23",
-          "instruction": "Match each statement with the correct expert, A-E. NB You may use any letter more than once.",
-          "options": [
+          "id": "p2",
+          "label": "Passage 2",
+          "title": "Australia's camouflaged creatures",
+          "subtitle": "Many species of animal in Australia protect themselves by using camouflage - a way of 'hiding' by blending into the surroundings",
+          "paragraphs": [
             {
-              "id": "A",
-              "text": "Jesper Juul"
+              "label": "A",
+              "text": "Most species use camouflage to some extent. If they are convincing, they survive to pass their genes on to future generations. After generation of natural selection, animals can develop astonishingly complex camouflage techniques, manipulating shape, colour and movement. 'The principle of camouflage is to make it economically unviable for a predator to pursue a particular species of prey.' explains Professor Mark Elgar, of the University of Melbourne. 'Camouflage increases the search time and, as a consequence, the predator will simply target another species, either because it doesn't see the camouflaged individual or it just finds something more obvious to do."
             },
             {
-              "id": "B",
-              "text": "Raph Koster"
+              "label": "B",
+              "text": "The easiest way for an animal to disguise itself is to be invisible in its surroundings. To that end, stick and leaf insects have evolved complex camouflage to hide themselves from predators. Many have the texture of sticks or dry leaves, while others imitate living foliage, even the veins in a leaf. Some insects develop blemishes to match the spots caused by disease. A convincing appearance only works if its owner also acts the part, so during the day the creature using this type of camouflage keeps motionless, or sways like a dead leaf in the breeze. If disturbed, it falls to the ground and stays still. Entomologist Paul Zborowski, who has spent decades photographing inconspicuous creatures, rates the desert insects of Central Australia as the most convincingly disguised creatures he's seen. \"It's an incredibly old habitat so the creatures have had a long time to adapt,\" Zborowski explains. Most of them behave like stones and don't move all day feeding only at night."
             },
             {
-              "id": "C",
-              "text": "Margaret Robertson"
+              "label": "C",
+              "text": "A tawny frogmouth sitting motionless on a stump also illustrates the importance of pairing a persuasive costume with behaviour. Professor Gisela Kaplan of the University of New England, in Australia, says the frogmouth's skill at camouflaging is learned behaviour. While adopting a pose may be a reflex of the bird, and can be observed in a hatchling's first week, the ability to choose a backdrop which matches its colouration does not develop for 4-6 months. When the chicks land they are usually highly conspicuous, and their parents try to signal to them to move to a safe location."
             },
             {
-              "id": "D",
-              "text": "Dan Pinchbeck"
+              "label": "D",
+              "text": "Fixed camouflage is only good against a relatively unchanging environment, so some animals, such as the cuttlefish, have evolved an adaptable disguise. The cuttlefish can almost instantly change its colour, pattern and texture to match its surroundings, using specialised cells and muscles. On Queensland's reefs, scientists have been studying another ocean dweller that uses colour change, although not to blend into the surroundings. Dr Karen Cheney, from the University of Queensland, says the bluestriped fangblenny alters its colouration to mimic other species of fish, allowing it to travel with them and benefit from safety in numbers. Its most impressive impersonation is of the black-with-neon-blue striped cleaner wrasse which eats the parasites on larger fish. Not only does the fangblenny benefit from the reduced predation that comes with the wrasse's beneficial relationships with other fish, but the disguise also lets it get closer to prey. It darts out from the safety of the wrasse's cleaning station to nip at unsuspecting fish passing by but doesn't attack those coming to be cleaned."
             },
             {
-              "id": "E",
-              "text": "Ben Weedon"
+              "label": "E",
+              "text": "The most famous form of mimicry, however, is for defence, not attack. Batesian mimicry refers to animals that gain protection from predators by imitating a dangerous organism, often using conspicuous colours. The nineteenth-century naturalist Henry Bates first suggested this camouflage technique after noticing that several Amazonian butterfly species looked the same. The technique was later called after him. In Australian waters, the harmless harlequin snake eel sports the same black and white bandings as the highly toxic, yellow-lipped sea krait, ensuring no predator will attack. However, the success of Batesian mimicry depends on the ratio of mimics to originals. If a predator encounters too many that are edible, it will just assume none of the animals with those markings are dangerous, explains Martyn Robinson, an educational naturalist with the Australian Museum."
+            },
+            {
+              "label": "F",
+              "text": "An imitation of a more dangerous creature needn't be exact, just enough to make potential predators hesitate. The hawk moth caterpillar has markings resembling a snake's eyes on its abdomen. When confronted, the caterpillar pulls its head in and the 'eyes' flash open. Whether the potential predator thinks it has seen a snake, or is simply startled is unclear, but the outcome is that the caterpillar lives to see another day."
+            },
+            {
+              "label": "G",
+              "text": "In Queensland's tablelands, the chameleon gecko has another way of making predators hesitate. Its body is brown, but its tail is banded in black and white. Robinson explains that if attacked, the chameleon gecko will drop off its tail, which will wriggle around on the ground. Many lizards do this, but in the case of the chameleon gecko the tail bones actually rub against one another, so it squeaks. 'The predator is, of course, thoroughly absorbed by this black-and-white-striped, wriggling, squeaking thing on the ground, and the gecko can sneak away,' Robinson says. It's a one-time-only trick: the regrown tail is brown, the same as the gecko's body. Such precise disguise and elaborate trickery illustrate the limitless possibilities of nature. But, as Robinson points out, only the most successful illusionists are here to tell the tale."
             }
           ],
-          "questions": [
+          "questionGroups": [
             {
-              "id": "20",
-              "prompt": "Players' involvement in games often includes thinking ahead.",
-              "answer": "D"
+              "type": "matching",
+              "title": "Questions 14-18",
+              "instruction": "Reading Passage 2 has seven sections, A-G. Which section contains the following information?",
+              "optionsTitle": "Sections",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Section A"
+                },
+                {
+                  "id": "B",
+                  "text": "Section B"
+                },
+                {
+                  "id": "C",
+                  "text": "Section C"
+                },
+                {
+                  "id": "D",
+                  "text": "Section D"
+                },
+                {
+                  "id": "E",
+                  "text": "Section E"
+                },
+                {
+                  "id": "F",
+                  "text": "Section F"
+                },
+                {
+                  "id": "G",
+                  "text": "Section G"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "14",
+                  "prompt": "a species that indicates to its young to move to a place where they are less visible",
+                  "answer": "C"
+                },
+                {
+                  "id": "15",
+                  "prompt": "an instance where sound is used to help an animal escape",
+                  "answer": "G"
+                },
+                {
+                  "id": "16",
+                  "prompt": "a creature that can use camouflage to match a range of different backgrounds",
+                  "answer": "D"
+                },
+                {
+                  "id": "17",
+                  "prompt": "a claim that the majority of animals disguise themselves in some way",
+                  "answer": "A"
+                },
+                {
+                  "id": "18",
+                  "prompt": "examples of animals that use camouflage to look like plants",
+                  "answer": "B"
+                }
+              ]
             },
             {
-              "id": "21",
-              "prompt": "The inclusion of unanticipated elements keeps players interested.",
-              "answer": "E"
+              "type": "matching",
+              "title": "Questions 19-23",
+              "instruction": "Match each statement with the correct person, A-F.",
+              "optionsTitle": "List of people",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Professor Mark Elgar"
+                },
+                {
+                  "id": "B",
+                  "text": "Paul Zborowski"
+                },
+                {
+                  "id": "C",
+                  "text": "Professor Gisela Kaplan"
+                },
+                {
+                  "id": "D",
+                  "text": "Dr Karen Cheney"
+                },
+                {
+                  "id": "E",
+                  "text": "Henry Bates"
+                },
+                {
+                  "id": "F",
+                  "text": "Martyn Robinson"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "19",
+                  "prompt": "one species has a camouflage tactic that is not present from birth.",
+                  "answer": "C"
+                },
+                {
+                  "id": "20",
+                  "prompt": "Species that live in an ancient environment have become very effective at camouflaging themselves.",
+                  "answer": "B"
+                },
+                {
+                  "id": "21",
+                  "prompt": "Part of an animal is left behind to distract predators.",
+                  "answer": "F"
+                },
+                {
+                  "id": "22",
+                  "prompt": "If it takes too long to find one kind of prey, animals will look for an alternative source food.",
+                  "answer": "A"
+                },
+                {
+                  "id": "23",
+                  "prompt": "Camouflage can involve copying a threatening type of animals.",
+                  "answer": "E"
+                }
+              ]
             },
             {
-              "id": "22",
-              "prompt": "It's now accepted that creating video games is a skill that can be learned.",
-              "answer": "A"
-            },
-            {
-              "id": "23",
-              "prompt": "Early games were much simpler than more recent ones.",
-              "answer": "D"
+              "type": "gap-fill",
+              "title": "Questions 24-26",
+              "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+              "questions": [
+                {
+                  "id": "24",
+                  "prompt": "Dr Karen Cheney studies the bluestriped fangblenny on",
+                  "suffix": "off Queensland's coast.",
+                  "answer": "reefs"
+                },
+                {
+                  "id": "25",
+                  "prompt": "The striped cleaner wrasse gets rid of larger fish's",
+                  "suffix": ".",
+                  "answer": "parasites"
+                },
+                {
+                  "id": "26",
+                  "prompt": "The fangblenny can approach its",
+                  "suffix": "without drawing attention.",
+                  "answer": "prey"
+                }
+              ]
             }
           ]
         },
         {
-          "type": "gapfill",
-          "title": "Questions 24-26",
-          "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
-          "questions": [
+          "id": "p3",
+          "label": "Passage 3",
+          "title": "The effectiveness of an online course",
+          "subtitle": "",
+          "paragraphs": [
             {
-              "id": "24",
-              "prompt": "Koster believes that games remove people's fear of _____.",
-              "answer": "failure"
+              "label": "1",
+              "text": "As access to the internet has continued to grow, web-based learning has continued to expand. With approximately half of the households in the United States (or 150 million people) connected to the internet, an estimated 2 million students are taking post-secondary courses that are fully delivered online. Millions of other students at all educational levels (primary, secondary, post-secondary) participate in online courses. However, the effectiveness of online courses, particularly in relation to individual student needs, perceptions, and student outcomes, is sometimes questioned."
             },
             {
-              "id": "25",
-              "prompt": "Robertson's view is that games feel exciting partly because of the _____ that is associated with them.",
-              "answer": "disapproval"
+              "label": "2",
+              "text": "Common elements for learning in a typical classroom environment are the social and communicative interactions between student and teacher, and student and student. The ability to ask a question, to share an opinion with a fellow student, or to disagree with the point of view in a reading assignment are all fundamental learning activities. However, effective web-based learning requires adjustments on the part of students and teachers for successful interactions to occur, for example. Many online courses provide students and faculty, and students and students with the ability to interact with each other via an electronic bulletin or discussion board."
             },
             {
-              "id": "26",
-              "prompt": "Narrative games are often structured so that the first and last part are both _____.",
-              "answer": "short"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "p3",
-      "label": "Passage 3",
-      "title": "Blind to Change",
-      "subtitle": "How much of the world around you do you really see?",
-      "paragraphs": [
-        {
-          "label": "1",
-          "text": "Picture the following and prepare to be amazed. You're walking across a college campus when a stranger asks you for directions. While you're talking to him, two men pass between you carrying a wooden door. You feel a moment's irritation, but you carry on describing the route. When you've finished, you're told you've just taken part in a psychology experiment. ‘Did you notice anything after the two men passed with the door?’ the stranger asks. ‘No,’ you reply uneasily. He explains that the man who initially approached you walked off behind the door leaving him in his place. The first man now rejoins you. Comparing them, you notice that they are of different height and build and are dressed very differently."
-        },
-        {
-          "label": "2",
-          "text": "Daniel Simons of Harvard University found that 50% of participants missed the substitution because of what is called ‘change blindness’. When considered with a large number of recent experimental results, this phenomenon suggests we ‘see’ far less than we think we do. Rather than logging every detail of the visual scene, says Simons, we are actually highly selective. Our impression of seeing everything is just that. In fact, we extract a few details and rely on memory, or even our imagination, for the rest."
-        },
-        {
-          "label": "3",
-          "text": "Until recently, scientists believed that vision involved creating images within the brain. By forming detailed internal representations of our surroundings and comparing them over time, we could detect any alterations. However, in his book Consciousness Explained, philosopher Daniel Dennett argued that our brains only store a few key details about the world, which is why we can function effectively. According to Dennett, creating elaborate images in short-term memory would consume valuable cognitive resources. Instead, we record what has changed and assume everything else remains unchanged. As a result, we inevitably overlook some details. Experiments had demonstrated that we tend to ignore elements in our visual field that seem unimportant, such as a repeated word or line in a text. But even Dennett didn't fully realise just how little we actually ‘see.’"
-        },
-        {
-          "label": "4",
-          "text": "A year later, John Grimes from the University of Illinois drew attention by showing that people who were presented with computer-generated images of natural scenes failed to notice changes made while their eyes were, for example, scanning the scene or blinking. Dennett was pleased: ‘In hindsight, I wish I had been bolder, as the effects are more pronounced than I originally claimed.’ Subsequently, it was discovered that our eyes don't even need to be moving to be deceived. A typical laboratory experiment might display an image on a computer screen, like a couple dining on a terrace. The image would briefly disappear, replaced by a blank screen, then reappear with a significant change, such as a raised railing behind the couple. Many people search the screen for up to a minute before spotting the alteration, and some never see it."
-        },
-        {
-          "label": "5",
-          "text": "This is disconcerting. However, 'change blindness' is somewhat artificial because, in real-life scenarios, a visible motion usually signals a change. Yet, not always. As Simons points out, \"We all know the experience of missing a traffic signal change because we briefly looked away. 'Inattentional blindness' refers to not noticing a feature of a scene when you aren't paying attention to it.\""
-        },
-        {
-          "label": "6",
-          "text": "Last year, Simons showed people a video of a basketball game and asked them to count the passes made by one of the teams. After 45 seconds, a man in a gorilla suit slowly walked behind the players. Forty percent didn't notice him. When the tape was replayed, and they were simply told to watch it, they easily saw the gorilla. Some even doubted it was the same video."
-        },
-        {
-          "label": "7",
-          "text": "Now, consider if the viewers had been driving a car, and the man in the gorilla suit had been a pedestrian. Some estimates suggest that nearly half of all fatal motor vehicle accidents in the US result from driver error, including attention lapses. It's more than just academic interest that has spurred research into these cognitive errors."
-        },
-        {
-          "label": "8",
-          "text": "These errors prompt critical questions: how can we reconcile such significant lapses with our subjective experience of continuously perceiving a rich visual environment? Last year, Stephen Kosslyn from Harvard University demonstrated that imagining a scene activates parts of the visual cortex similarly to actually seeing it. He argues that this supports the idea that we only absorb the information we consider important and mentally fill in the gaps where details are less crucial. \"The illusion that we see 'everything' is partly due to filling in gaps with memory,\" he says. \"These memories can be shaped by beliefs and expectations.\""
-        },
-        {
-          "label": "9",
-          "text": "Ronald Rensink from the University of British Columbia in Canada believes our perception of a detailed visual world comes from constructing internal representations. He suggests that the brain first creates a temporary layout of the visual scene, and then our attention enhances the resolution of the scene. \"What attention does,\" he explains, \"is stabilize these representations so they form distinct objects. Once attention shifts, they revert to an unstable, unresolved state.\""
-        },
-        {
-          "label": "10",
-          "text": "While Rensink or Kosslyn propose that internal images or memory play some role, others argue that we can perceive visual richness without storing any of that richness in our brains. Kevin O'Regan, an experimental psychologist, contends that our brains do not store a visual image of the world. Instead, we rely on the external visual environment as different parts of a scene become relevant."
-        },
-        {
-          "label": "11",
-          "text": "According to O'Regan, our sense of controlling what we see is also an illusion. \"We believe that when something flickers outside the window, we choose to look,\" says Susan Blackmore from the University of the West of England, who supports O'Regan's view. \"In reality,\" she explains, \"our change detection mechanisms automatically drag our attention to various stimuli.\""
-        }
-      ],
-      "questionGroups": [
-        {
-          "type": "matchOptions",
-          "title": "Questions 27-30",
-          "instruction": "Match each person with the correct claim, A-G.",
-          "options": [
-            {
-              "id": "A",
-              "text": "People overlook changes that happen during eye movements."
+              "label": "3",
+              "text": "While most studies show a link between interaction and satisfaction in web-based courses, some observers have cautioned that this is not always the case. Ruberg, Taylor and Moore, for example, observe that in order to interact successfully, students must adjust to the nonlinear nature of web-based learning. Typical face-to-face situations tend to be linear, focusing on a single discussion thread. Web-based learning sessions on an electronic bulletin board can have multiple threads with several discussions and interactions progressing simultaneously. Students respond to a teacher but also to other students, depending on their interest and points of view."
             },
             {
-              "id": "B",
-              "text": "At times, we fail to notice something because we choose to deceive ourselves."
+              "label": "4",
+              "text": "Sproull and Kiesler caution about discussions based on misinformation, that continue because online an instructor cannot necessarily immediately correct or clarify a comment. As a result, students need to have the experience and knowledge base to sift through the discussion for misinformation. In online learning, the amount of student interaction and the number of comments can easily lead to what is described as information overload. Furthermore, comments in online discussions tend to be lengthier than in face-to-face situations. With more information from many sources, students need to be more attentive to both the who and what of a comment. Cartens Shat, an economist, states 'a wealth of information can create a poverty of attention.'"
             },
             {
-              "id": "C",
-              "text": "Retaining every image and memory would hinder our ability to function effectively."
+              "label": "5",
+              "text": "In examinations of interaction, the concept of 'presence', or a sense of being in a place and belonging to a group, has received attention. It is generally assumed that when a student is physically present in a face-to-face course, he or she has a sense of belonging to the class or group enrolled in the course and this sense of belonging is greater than that experienced on an online course. He or she listens to the discussion and may choose to raise a hand to comment, answer or ask a question. Furthermore, this same student may develop a relationship with other students in the class and discuss topics related to the class during a break. However, this is an assumption and not always true. For a variety of reasons, some students can also feel alienated in a face-to-face class and not feel part of a group."
             },
             {
-              "id": "D",
-              "text": "Sometimes, people overlook the significance of a crucial figure in a scene."
+              "label": "6",
+              "text": "The idea of presence has been redefined in relation to an online course. The simplest definition of presence for an online course refers to a student's sense of being registered and belonging in a course, and the ability to interact with other students and an instructor even though physical contact is not available. However, as this concept is studied, the definition is expanding and being refined to include telepresence, cognitive presence, social presence, teaching presence, and other forms of presence. The term 'community' is related to presence, and refers to a group of individuals who belong to a social unit, such as students in a class. In an online course, however, terms such as communities of inquiry, communities of learners, and knowledge-building communities have evolved."
             },
             {
-              "id": "E",
-              "text": "We misunderstand what we see because we rely on our imagination."
+              "label": "7",
+              "text": "As the definition of presence has expanded and evolved, a distinction has been made between interaction and presence, emphasizing that they are not the same. Interaction may indicate presence but it is also possible for a student to interact by posting a message on an electronic bulletin board, while not necessarily feeling that he or she is part of a group or a class."
             },
             {
-              "id": "F",
-              "text": "We don't have complete control over what captures our attention."
-            },
-            {
-              "id": "G",
-              "text": "Imagining a scene and physically being there impact our visual processes in similar ways."
+              "label": "8",
+              "text": "A study conducted by Professor Anthony Picciano used questionnaires to determine students' attitudes in relation to their interactions and sense of purpose in online courses. An attempt was made to go beyond student perceptions of interaction and performance and to include perceptions of social presence, as well as actual participation in class activities. In addition, data was collected on performance measures that related specifically to course objectives. While much of the research, including this study, supports the strong relationship between students' perception of interaction and perceived learning, the results of the study indicated that the relationship of actual measures of interaction and performance is mixed. The success of many online courses is dependent upon the nature of student-to-student and student-to-faculty interaction. However, how interaction affects learning outcomes and what the relationships between the two are, is in need of further study."
             }
           ],
-          "questions": [
+          "questionGroups": [
             {
-              "id": "27",
-              "prompt": "Daniel Dennett",
-              "answer": "C"
+              "type": "multiple-choice",
+              "title": "Questions 27-31",
+              "instruction": "Choose the correct letter, A, B, C or D.",
+              "questions": [
+                {
+                  "id": "27",
+                  "prompt": "Which of the following is mentioned in the article in relation to classroom-based learning?",
+                  "choices": [
+                    {
+                      "id": "A",
+                      "text": "the development of academic skills"
+                    },
+                    {
+                      "id": "B",
+                      "text": "the documenting of information"
+                    },
+                    {
+                      "id": "C",
+                      "text": "the completion of assignments"
+                    },
+                    {
+                      "id": "D",
+                      "text": "the exchange of ideas"
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "28",
+                  "prompt": "Ruberg, Taylor and Moore point out that web-based learning requires learners to",
+                  "choices": [
+                    {
+                      "id": "A",
+                      "text": "think sequentially"
+                    },
+                    {
+                      "id": "B",
+                      "text": "research different points of view"
+                    },
+                    {
+                      "id": "C",
+                      "text": "limit their responses to other students"
+                    },
+                    {
+                      "id": "D",
+                      "text": "follow more than one discussion at a time"
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "29",
+                  "prompt": "What problem did Sproull and Kiesler identify with online discussions?",
+                  "choices": [
+                    {
+                      "id": "A",
+                      "text": "Online discussions demand less attention than face-to-face ones."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Teachers have difficulty monitoring the length of comments."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Face-to-face interactions between students are lost."
+                    },
+                    {
+                      "id": "D",
+                      "text": "There is a delay in giving feedback to students."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "30",
+                  "prompt": "The writer refers to the concept of online presence as",
+                  "choices": [
+                    {
+                      "id": "A",
+                      "text": "listening to a discussion."
+                    },
+                    {
+                      "id": "B",
+                      "text": "a feeling of being part of a group."
+                    },
+                    {
+                      "id": "C",
+                      "text": "posting ideas on an electronic bulletin board."
+                    },
+                    {
+                      "id": "D",
+                      "text": "having a good relationship with other students."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "31",
+                  "prompt": "What was a focus of Anthony Picciano's study?",
+                  "choices": [
+                    {
+                      "id": "A",
+                      "text": "to examine the relationship between presence and course outcomes"
+                    },
+                    {
+                      "id": "B",
+                      "text": "to analyse the differences between online and class-based courses"
+                    },
+                    {
+                      "id": "C",
+                      "text": "to examine the importance of being present in a classroom"
+                    },
+                    {
+                      "id": "D",
+                      "text": "to demonstrate that online courses are not generally effective"
+                    }
+                  ],
+                  "answer": "A"
+                }
+              ]
             },
             {
-              "id": "28",
-              "prompt": "John Grimes",
-              "answer": "A"
+              "type": "yes-no-not-given",
+              "title": "Questions 32-36",
+              "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+              "options": [
+                "YES",
+                "NO",
+                "NOT GIVEN"
+              ],
+              "questions": [
+                {
+                  "id": "32",
+                  "prompt": "The ability of online courses to meet an individual participant's needs is unclear.",
+                  "answer": "YES"
+                },
+                {
+                  "id": "33",
+                  "prompt": "Researchers caution against building strong online relationships.",
+                  "answer": "NOT GIVEN"
+                },
+                {
+                  "id": "34",
+                  "prompt": "Common assumptions about the benefits of face-to-face courses have proved to be correct.",
+                  "answer": "NO"
+                },
+                {
+                  "id": "35",
+                  "prompt": "The meaning of presence is still being clarified.",
+                  "answer": "YES"
+                },
+                {
+                  "id": "36",
+                  "prompt": "Research on the impacts of interaction on learning outcomes has produced consistent results.",
+                  "answer": "NO"
+                }
+              ]
             },
             {
-              "id": "29",
-              "prompt": "Stephen Kosslyn",
-              "answer": "G"
-            },
-            {
-              "id": "30",
-              "prompt": "Kevin O'Regan",
-              "answer": "F"
-            }
-          ]
-        },
-        {
-          "type": "tfng",
-          "title": "Questions 31-35",
-          "instruction": "TRUE if the statement agrees with the information; FALSE if the statement contradicts the information; NOT GIVEN if there is no information on this.",
-          "questions": [
-            {
-              "id": "31",
-              "prompt": "One expert expressed regret for having underemphasized his argument in a publication.",
-              "answer": "TRUE"
-            },
-            {
-              "id": "32",
-              "prompt": "We overlook insignificant items that come into our view.",
-              "answer": "TRUE"
-            },
-            {
-              "id": "33",
-              "prompt": "Research into cognitive errors might potentially save lives.",
-              "answer": "TRUE"
-            },
-            {
-              "id": "34",
-              "prompt": "The aging process increases the need to fill in gaps in our visual perception.",
-              "answer": "NOT GIVEN"
-            },
-            {
-              "id": "35",
-              "prompt": "Our eyes are only at risk of being deceived when they are in motion.",
-              "answer": "FALSE"
-            }
-          ]
-        },
-        {
-          "type": "matchOptions",
-          "title": "Questions 36-40",
-          "instruction": "Complete each sentence with the correct ending, A-G.",
-          "options": [
-            {
-              "id": "A",
-              "text": "is not backed by scientific evidence."
-            },
-            {
-              "id": "B",
-              "text": "is provided by memory."
-            },
-            {
-              "id": "C",
-              "text": "causes us to overlook other details."
-            },
-            {
-              "id": "D",
-              "text": "has been especially fruitful in recent times."
-            },
-            {
-              "id": "E",
-              "text": "has sparked significant public debate."
-            },
-            {
-              "id": "F",
-              "text": "is challenging for us to accept."
-            },
-            {
-              "id": "G",
-              "text": "helps us see the overall picture more clearly."
-            }
-          ],
-          "questions": [
-            {
-              "id": "36",
-              "prompt": "Concentrating on a particular aspect of an activity or scene",
-              "answer": "C"
-            },
-            {
-              "id": "37",
-              "prompt": "The fact that we make visual errors",
-              "answer": "F"
-            },
-            {
-              "id": "38",
-              "prompt": "The part of the picture that we fail to see clearly",
-              "answer": "B"
-            },
-            {
-              "id": "39",
-              "prompt": "The idea that we see everything in our visual field",
-              "answer": "A"
-            },
-            {
-              "id": "40",
-              "prompt": "Research into the nature of human vision",
-              "answer": "E"
+              "type": "matching",
+              "title": "Questions 37-40",
+              "instruction": "Complete each sentence with the correct ending, A-F.",
+              "optionsTitle": "Endings",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "is dependent on adapting to unfamiliar interaction formats."
+                },
+                {
+                  "id": "B",
+                  "text": "is key in determining whether a student has a sense of belonging in course"
+                },
+                {
+                  "id": "C",
+                  "text": "is a subject that the writer believes will require more study."
+                },
+                {
+                  "id": "D",
+                  "text": "is essential to excel in study and scholarship"
+                },
+                {
+                  "id": "E",
+                  "text": "is key in determining whether a student feels they have learned something from a course"
+                },
+                {
+                  "id": "F",
+                  "text": "is important for determining their validity."
+                }
+              ],
+              "questions": [
+                {
+                  "id": "37",
+                  "prompt": "The ability to succeed in an online course",
+                  "answer": "A"
+                },
+                {
+                  "id": "38",
+                  "prompt": "The need to be mindful of the source of comments in an online discussion",
+                  "answer": "F"
+                },
+                {
+                  "id": "39",
+                  "prompt": "In online courses, it is presence, rather than interaction, that",
+                  "answer": "B"
+                },
+                {
+                  "id": "40",
+                  "prompt": "The relationship between interaction and learning achievement",
+                  "answer": "C"
+                }
+              ]
             }
           ]
         }
