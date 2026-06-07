@@ -1,1129 +1,499 @@
 {
-  "format": "ielts-reading-library",
-  "version": 2,
-  "exportedAt": "2026-05-31T06:28:53.934Z",
-  "tests": [
+  "id": "6_3_the_growth_of_agriculture",
+  "title": "6_3: The growth of agriculture",
+  "duration": 60,
+  "sourceFile": "TEST 3.docx",
+  "passages": [
     {
-      "id": "ielts-reading-mungo-video-games-blind-change-full",
-      "title": "IELTS Reading Practice - Mungo Lady, Video Games, Blind to Change",
-      "duration": 60,
-      "sourceFile": "ielts_reading_from_images_v3(2).docx",
-      "sourceNotes": "Converted from the uploaded Word file. This version uses the complete Passage 3 text and the full endings list for Questions 36-40 from the uploaded document.",
-      "passages": [
+      "id": "p1",
+      "label": "Passage 1",
+      "title": "The growth of agriculture",
+      "subtitle": "Some developments in Western agriculture from prehistory to the nineteenth century",
+      "paragraphs": [
         {
-          "id": "p1",
-          "label": "Passage 1",
-          "title": "Mungo Lady and Mungo Man",
-          "subtitle": "Controversies in Australian Prehistory",
-          "paragraphs": [
+          "label": "1",
+          "text": "Agriculture is the art and science of cultivating the soil, growing crops and raising livestock. It includes the preparation of plant and animal products for people to use and their distribution to markets."
+        },
+        {
+          "label": "2",
+          "text": "Before agriculture became widespread, prehistoric people spent most of their lives hunting animals and gathered wild plants. Then, about 11,500 years ago, people gradually learned how to cultivate plants for food use and settled down to a life based on farming. Scholars are unsure why this shift to farming took place, but it may have occurred because of climate change. The earliest crop was most likely to have been rice, corn, or similar types of cereals. At around the same time, people also began herding and breeding animals. Sheep and goats were probably domesticated first followed by cattle and pigs. Eventually, people started keeping animals such as oxen for ploughing and transportation."
+        },
+        {
+          "label": "3",
+          "text": "Agriculture enabled people to produce a surplus of food which could be eaten when crops failed or swapped for other goods. This exchange of goods was how trade began, and this in turn allowed people to work at other tasks unrelated to farming. Agriculture also kept formerly nomadic people near their fields and led to the establishment of permanent villages which became linked through trade. This development was so successful in some areas that cities emerged, and eventually entire civilisations arose. The earliest of these developed near the Tigris and Euphrates rivers in Mesopotamia - now Iraq - and along the River Nile in Egypt, eventually spreading to Europe, Asia and beyond. For thousands of years, agricultural development was very slow. Farmers cultivated small plots of land by hand using axes to clear away trees and sticks to break up and till the soil. However, over time, improved farming tools of bone, stone, bronze, and iron were developed. Around 7,500 years ago, farmers in Mesopotamia developed simple irrigation systems. By channeling water from streams onto their fields, farmers were able to settle in areas once thought to be unsuited to agriculture. In Mesopotamia and later in Egypt, people organized themselves and worked together to build these systems. As the Roman empire expanded, the Romans adapted the best agricultural methods of the people they conquered. They even wrote manuals about the farming techniques they observed in Africa, systems preserved nutrients in the soil. So, and Asia, and Europe. By 2,000 years ago much of the land in Earth's population was reliant on agriculture."
+        },
+        {
+          "label": "4",
+          "text": "In medieval times, European farmers adopted an open-field system of planting in which one field would be planted in spring, another in autumn, and one would be left unplanted, or fallow. This system preserved nutrients in the soil, so increasing crop production. Later in the 15th and 16th centuries, explorers travelling to Africa, Asia and the Americas began to introduce new varieties of plants into Europe. From the Americas, for example, they brought back agriculture products such as potatoes, tomatoes, maize and beans, which eventually became staple crops and an integral part of the European diet."
+        },
+        {
+          "label": "5",
+          "text": "A period of major agricultural development began in the early 1700s for Great Britain and northern Europe. One of the most important of these developments was the horse-drawn seed drill, invented in England by Jethro Tull. Until that time, farmers sowed seeds by hand. Tull's invention made rows of holes for the seeds and dropped them into the holes thus greatly improving the speed and efficiency of the process. By the end of the 18th century, seed drilling was widely practiced in many countries across Europe."
+        },
+        {
+          "label": "6",
+          "text": "Along with new machines, there were several other important advances in farming methods. By selectively breeding their livestock - deliberately breeding animals with a certain combination of desirable qualities from chosen parent animals - farmers increased both the size of their herds and the productivity of their livestock. An early example of this is the Leicester sheep, an animal selectively bred in England for its quality meat and long, coarse wool. Then, in Austria in 1866, a monk and science teacher by the name of Gregor Mendel published his studies of heredity, which were the first to show how traits are passed from one generation of plants to the next. Mendel is widely recognised as the founder of the science of genetics, and his experiments paved the way for the selective breeding of plants and the improvement of crops through genetics."
+        },
+        {
+          "label": "7",
+          "text": "Another major agricultural breakthrough came from the field of chemistry. For thousands of years, farmers had relied on natural fertiliser - materials such as animal or bird waste, wood ash, or ground bones to replenish or increase nutrients in the soil. Then, in the early 1800s, scientists discovered which elements were most essential to plant growth: nitrogen, phosphorus, and potassium. This led to the manufacture of chemical fertilisers based on nitrates and phosphates, which greatly increased crop yields. With the population of Europe doubling during the 1800s - from around 200 million at the beginning of the century to around 400 million mouths to feed at its end - farming had finally become big business."
+        }
+      ],
+      "questionGroups": [
+        {
+          "type": "gap-fill",
+          "title": "Questions 1-7",
+          "instruction": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+          "questions": [
             {
-              "label": "1",
-              "text": "Fifty thousand years ago, a lush landscape greeted the first Australians moving towards the south-east of the continent. Temperatures were cooler than now. Megafauna - giant prehistoric animals such as marsupial lions and the rhinoceros-sized diprotodon - were abundant. Freshwater lakes in areas of western New South Wales (NSW) were brimming with fish. But change was coming. By 40,000 years ago, water levels had started to drop."
+              "id": "1",
+              "prompt": "Prehistoric times - people collected wild plants, and",
+              "suffix": "animals to get meat.",
+              "answer": "following"
             },
             {
-              "label": "2",
-              "text": "A study of the sediments and graves of Lake Mungo, a dry lake bed in western NSW, has uncovered the muddy layers deposited as the lake began to dry up. Forty thousand years ago, families took refuge at the lake from the encroaching desert, leaving artefacts such as stone tools, which researchers used to determine that the first wanderers came to the area between 46,000 and 50,000 years ago. By 20,000 years ago, the lake had become the dry, dusty hole it is today. This area was first examined by the University of Melbourne geologist Professor Jim Bowler in 1969. He was searching for ancient lakes and came across the remains of a woman who had been buried with some ceremony; she was given the name ‘Mungo Lady’. In 1974, he found a second set of remains, Mungo Man, buried 300 metres away. Bowler's comprehensive study of different sediment layers has concluded that both graves are 40,000 years old."
+              "id": "2",
+              "prompt": "11,500 years ago - people began growing crops, probably",
+              "suffix": "e.g. rice or corn.",
+              "answer": "cereals"
             },
             {
-              "label": "3",
-              "text": "This is much younger than the 62,000 years Mungo Man was attributed with in 1999 by a team led by Professor Alan Thorne, of the Australian National University. Thorne is the country's leading opponent of the ‘Out of Africa’ theory - that modern humans spread around the globe from Africa about 100,000 years ago. The revision of Mungo Man's age has refocused attention on academic disputes about mankind's origins."
+              "id": "3",
+              "prompt": "Agriculture enabled people to produce a",
+              "suffix": "of food.",
+              "answer": "surplus"
             },
             {
-              "label": "4",
-              "text": "The arrival date of these early Australians is linked to another vexed question: the reason for the disappearance of the megafauna. Dr Tim Flannery, a proponent of the controversial theory that these animals were wiped out by the extreme hunting practices of humans, claims that the new Mungo dates support this view. For Bowler, however, these debates are speculative distractions. At 40,000 years old, he argues, Mungo Man and Mungo Lady remain Australia's oldest human burials and the earliest evidence on Earth of cultural sophistication. ‘At Lake Mungo, we have a cameo of people reacting to environmental change. It is one of the great stories of the people of the world.’"
+              "id": "4",
+              "prompt": "Trade resulted in the emergence of cities and the growth of",
+              "suffix": ".",
+              "answer": "civilizations"
             },
             {
-              "label": "5",
-              "text": "Two rival groups of researchers have each attacked the techniques used by the other to ascertain the date of Mungo Man. In the 1999 study, Thorne's team used three techniques to date Mungo Man - bone, tooth enamel and sand. Bowler has strongly challenged the results ever since. Dating human bones is ‘notoriously unreliable,’ he says. In addition, the sand sample used by Thorne's group was taken hundreds of metres from the burial site."
+              "id": "5",
+              "prompt": "Farmers gradually began using better",
+              "suffix": "made from different materials.",
+              "answer": "tools"
             },
             {
-              "label": "6",
-              "text": "Bowler has stated that it is not difficult ‘to realise that the age of sand is not the same as the age of the grave’. He says his team's results are based on careful fieldwork, crosschecked between four laboratories, while Thorne's team misinterpreted the evidence, ‘locked in a laboratory in Canberra’. Thorne counters that Bowler's team used one dating technique, while his used three. Best practice is to have at least two methods producing the same result. A Thorne team member, Professor Rainer Grün, says the fact that the latest results were consistent between laboratories doesn't mean they are correct. ‘We now have two data sets that are contradictory. I do not have a plausible explanation.’"
+              "id": "6",
+              "prompt": "Systems of providing fields with a supply of",
+              "suffix": "were invented in Mesopotamia.",
+              "answer": "water"
             },
             {
-              "label": "7",
-              "text": "Thorne recently made headlines with a study of Mungo Man's DNA, which he claimed supported his idea that modern humans developed from archaic humans in several places around the world, rather than emerging from Africa a relatively short time ago. Now, however, Thorne says the age of Mungo Man is irrelevant. Recent fossil finds show that modern humans were in China 110,000 years ago. ‘So he has a long time to arrive in Australia. It doesn't matter if he is 40,000 or 60,000 years old.’"
-            },
-            {
-              "label": "8",
-              "text": "In 2001, a member of Bowler's team, Dr Richard Roberts of Wollongong University, along with Flannery, Director of the South Australian Museum, published research on the extinction of the megafauna. They dated 28 sites across the continent, arguing that their analysis showed that the megafauna died out suddenly 46,600 years ago. This conclusion has been challenged by other scientists, including Dr Judith Field of the University of Sydney and Dr Richard Fullager of the Australian Museum, who point to the presence of megafauna fossils at the 36,000-year-old Cuddie Springs site in NSW."
-            },
-            {
-              "label": "9",
-              "text": "Flannery praises the Bowler team's research as thorough and rigorous. He says the finding that humans arrived at Lake Mungo between 46,000 and 50,000 years ago supports the idea that that was a critical time in Australia's history. There is no evidence of a dramatic climate change at that time, he says. ‘It's my view that humans arrived and megafauna extinction took place in almost the same geological instant.’ Bowler, however, is sceptical of Flannery's theory about the disappearance of the giant animals. He argues that climate change 40,000 years ago was more intense than has been previously realised and could have played an important role in their extinction."
-            }
-          ],
-          "questionGroups": [
-            {
-              "type": "matchOptions",
-              "title": "Questions 1-8",
-              "instruction": "Match each theory with the correct researcher(s), A-F. NB You may use any letter more than once.",
-              "options": [
-                {
-                  "id": "A",
-                  "text": "Jim Bowler"
-                },
-                {
-                  "id": "B",
-                  "text": "Alan Thorne"
-                },
-                {
-                  "id": "C",
-                  "text": "Tim Flannery"
-                },
-                {
-                  "id": "D",
-                  "text": "Rainer Grün"
-                },
-                {
-                  "id": "E",
-                  "text": "Richard Roberts and Tim Flannery"
-                },
-                {
-                  "id": "F",
-                  "text": "Judith Field and Richard Fullager"
-                }
-              ],
-              "questions": [
-                {
-                  "id": "1",
-                  "prompt": "Our human ancestors did not originate in only one area.",
-                  "answer": "B"
-                },
-                {
-                  "id": "2",
-                  "prompt": "The extinction of the megafauna happened within a brief period.",
-                  "answer": "E"
-                },
-                {
-                  "id": "3",
-                  "prompt": "The megafauna died out as a result of human activity.",
-                  "answer": "C"
-                },
-                {
-                  "id": "4",
-                  "prompt": "The similarity of results does not always guarantee their validity.",
-                  "answer": "D"
-                },
-                {
-                  "id": "5",
-                  "prompt": "How old Mungo Man is, is unimportant.",
-                  "answer": "B"
-                },
-                {
-                  "id": "6",
-                  "prompt": "There is evidence to disprove the theory of mass megafauna extinction.",
-                  "answer": "F"
-                },
-                {
-                  "id": "7",
-                  "prompt": "An extreme environmental change occurred at the time that humans first moved into the Lake Mungo area.",
-                  "answer": "A"
-                },
-                {
-                  "id": "8",
-                  "prompt": "The earliest evidence of advanced human culture is found in Australia.",
-                  "answer": "A"
-                }
-              ]
-            },
-            {
-              "type": "tfng",
-              "title": "Questions 9-13",
-              "instruction": "TRUE if the statement agrees with the information; FALSE if the statement contradicts the information; NOT GIVEN if there is no information on this.",
-              "questions": [
-                {
-                  "id": "9",
-                  "prompt": "Objects found in the Lake Mungo area were used to date the arrival of humans.",
-                  "answer": "TRUE"
-                },
-                {
-                  "id": "10",
-                  "prompt": "Ancient weapons were found in the Lake Mungo area.",
-                  "answer": "FALSE"
-                },
-                {
-                  "id": "11",
-                  "prompt": "Scientists agree about the age of Mungo Man.",
-                  "answer": "FALSE"
-                },
-                {
-                  "id": "12",
-                  "prompt": "Thorne's research involved analysing more than one material.",
-                  "answer": "TRUE"
-                },
-                {
-                  "id": "13",
-                  "prompt": "Bowler has criticised the research methods used by Thorne.",
-                  "answer": "TRUE"
-                }
-              ]
+              "id": "7",
+              "prompt": "",
+              "suffix": "years ago, a large proportion of people worldwide had become dependent on farming.",
+              "answer": "2000"
             }
           ]
         },
         {
-          "id": "p2",
-          "label": "Passage 2",
-          "title": "The attraction of video games",
-          "subtitle": "The world's love of video games has much to do with people's desires and motives",
-          "paragraphs": [
-            {
-              "label": "A",
-              "text": "Video games, it is often claimed, are about wasting time. It is a misunderstanding that players and game makers have been trying to correct for many years. While movies and television are endlessly analysed in the media, games are often dismissed as irresponsible, unimportant by-products of the broader digital revolution. But a growing number of experts disagree. This is, after all, an entertainment medium that worldwide makes $50b a year. Using ideas from psychology and sociology, theorists and designers suggest that our love of video games may actually have important things to tell us about our most basic desires and motivations. Game design has become big business and has led to the creation of a multitude of companies. The industry attitude toward training has changed radically, says prominent game researcher Jesper Juul. ‘I recall hearing professionals claim that game design was a strange and unteachable art, but now this attitude has mostly faded.’ Designing video games is increasingly recognised as a valid field of university study throughout the world."
-            },
-            {
-              "label": "B",
-              "text": "Central to an understanding of games is the theory that games are fun because they teach us in a way that our brains prefer, that is, through systems and puzzles. Raph Koster, designer of multiplayer fantasy games, points out that an effective learning environment is one in which failure is acceptable, even welcomed. Accordingly, Koster says that in games, the player enters into a situation where the rules of the real world don't apply - and typically being judged on success and failure is part of the real world. When gaming, people feel free to try things and to learn, and not worry about what might happen. Consistently, Koster says, the best games are the ones that provide us with interesting tools such as weapons or magic, and allow us to experiment with them. For example, in one early game, players are given the ability to jump, and can practise this for as long as they like, but to get to the next stage they need to master this ability so they can leap over an enemy and onto a platform. ‘Games allow us to create these little systems where learning is controlled really brilliantly,’ says Margaret Robertson, director at a London-based game design company. ‘Something we don't talk about is that, actually, one of the strengths of games is the vague sense of disapproval that still surrounds them - they feel like something that's forbidden!’ And that can, of course, be very exciting."
-            },
-            {
-              "label": "C",
-              "text": "Another important element in the popularity of games is the player's ability to determine what happens. Games tap into our need to have direction; this is very obvious in games where we shape the lives of virtual humans, but it's becoming a vital element of action adventures too. ‘Games are increasingly complex systems,’ says Dan Pinchbeck, an experimental game designer. ‘There's an emphasis on the pleasure of choosing and planning. We've moved quite dramatically away from the very first video games. These games mostly involved the player merely reacting to events. But games then became more about approaching a situation and making a plan depending on your preferred play style.’"
-            },
-            {
-              "label": "D",
-              "text": "Many studios design their games around reward systems. ‘A good game will have progression at the end of each level, but it will also provide surprise rewards halfway through,’ says Ben Weedon, a games studio consultant. In a game, you're essentially pressing the same buttons and doing the same things over and over again, so you need those occasional surprises to stay motivated."
-            },
-            {
-              "label": "E",
-              "text": "Games have constantly evolved over the years and continue to do so right up to the present. Now, incorporating a narrative structure into a game is becoming increasingly important. Many games have adopted Hollywood's three-act structure, which is designed to maintain our loyalty to a particular game. As in many films, a short final act is often used to give a sense of acceleration towards a preferably startling climax. Opening levels of games are also short, because this flatters us into thinking we're making good progress, whereas the middle levels are more extensive."
-            },
-            {
-              "label": "F",
-              "text": "Games even tap into our friendships. The rise of multiplayer gaming means that gaming increasingly involves social interaction. And other businesses are taking notice and using this as an element in advertising their brands. Then there's the new concept of ‘gamification’, in which websites and smartphone apps are being designed like games, with high scores and achievement points to keep customers entertained. Research estimates that businesses spent more than $100m worldwide on gamification projects last year, a figure predicted to rise to $1.6b in the next four years."
-            },
-            {
-              "label": "G",
-              "text": "So, in fact, games aren't just an insignificant fad, as some people might suggest. They fulfil intrinsic human needs, whether we are conscious of it or not. The loop of learning control and rewards is at the heart of something very important, and very attractive."
-            }
+          "type": "tfng",
+          "title": "Questions 8-13",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
           ],
-          "questionGroups": [
+          "questions": [
             {
-              "type": "matchingHeadings",
-              "title": "Questions 14-19",
-              "instruction": "Choose the correct heading for each section from the list of headings below. Drag the heading to the top of the correct paragraph, or use the dropdown.",
-              "options": [
-                {
-                  "id": "i",
-                  "text": "Being able to experiment without consequences"
-                },
-                {
-                  "id": "ii",
-                  "text": "Why stories are included in games"
-                },
-                {
-                  "id": "iii",
-                  "text": "The key role of the unexpected for game players"
-                },
-                {
-                  "id": "iv",
-                  "text": "Transferring features of games to other types of products"
-                },
-                {
-                  "id": "v",
-                  "text": "The age group that games most appeal to"
-                },
-                {
-                  "id": "vi",
-                  "text": "The development of the video game design industry"
-                },
-                {
-                  "id": "vii",
-                  "text": "Players' ability to control what occurs in games"
-                }
-              ],
-              "questions": [
-                {
-                  "id": "14",
-                  "paragraph": "A",
-                  "answer": "vi"
-                },
-                {
-                  "id": "15",
-                  "paragraph": "B",
-                  "answer": "i"
-                },
-                {
-                  "id": "16",
-                  "paragraph": "C",
-                  "answer": "vii"
-                },
-                {
-                  "id": "17",
-                  "paragraph": "D",
-                  "answer": "iii"
-                },
-                {
-                  "id": "18",
-                  "paragraph": "E",
-                  "answer": "ii"
-                },
-                {
-                  "id": "19",
-                  "paragraph": "F",
-                  "answer": "iv"
-                }
-              ]
+              "id": "8",
+              "prompt": "The Romans adapted their own farming methods for use in Africa and Asia.",
+              "answer": "FALSE"
             },
             {
-              "type": "matchOptions",
-              "title": "Questions 20-23",
-              "instruction": "Match each statement with the correct expert, A-E. NB You may use any letter more than once.",
-              "options": [
-                {
-                  "id": "A",
-                  "text": "Jesper Juul"
-                },
-                {
-                  "id": "B",
-                  "text": "Raph Koster"
-                },
-                {
-                  "id": "C",
-                  "text": "Margaret Robertson"
-                },
-                {
-                  "id": "D",
-                  "text": "Dan Pinchbeck"
-                },
-                {
-                  "id": "E",
-                  "text": "Ben Weedon"
-                }
-              ],
-              "questions": [
-                {
-                  "id": "20",
-                  "prompt": "Players' involvement in games often includes thinking ahead.",
-                  "answer": "D"
-                },
-                {
-                  "id": "21",
-                  "prompt": "The inclusion of unanticipated elements keeps players interested.",
-                  "answer": "E"
-                },
-                {
-                  "id": "22",
-                  "prompt": "It's now accepted that creating video games is a skill that can be learned.",
-                  "answer": "A"
-                },
-                {
-                  "id": "23",
-                  "prompt": "Early games were much simpler than more recent ones.",
-                  "answer": "D"
-                }
-              ]
+              "id": "9",
+              "prompt": "The medieval open-field system increased food production by allowing European farmers to have crops growing continuously in all their fields.",
+              "answer": "FALSE"
             },
             {
-              "type": "gapfill",
-              "title": "Questions 24-26",
-              "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
-              "questions": [
-                {
-                  "id": "24",
-                  "prompt": "Koster believes that games remove people's fear of _____.",
-                  "answer": "failure"
-                },
-                {
-                  "id": "25",
-                  "prompt": "Robertson's view is that games feel exciting partly because of the _____ that is associated with them.",
-                  "answer": "disapproval"
-                },
-                {
-                  "id": "26",
-                  "prompt": "Narrative games are often structured so that the first and last part are both _____.",
-                  "answer": "short"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "p3",
-          "label": "Passage 3",
-          "title": "Blind to Change",
-          "subtitle": "How much of the world around you do you really see?",
-          "paragraphs": [
-            {
-              "label": "1",
-              "text": "Picture the following and prepare to be amazed. You're walking across a college campus when a stranger asks you for directions. While you're talking to him, two men pass between you carrying a wooden door. You feel a moment's irritation, but you carry on describing the route. When you've finished, you're told you've just taken part in a psychology experiment. ‘Did you notice anything after the two men passed with the door?’ the stranger asks. ‘No,’ you reply uneasily. He explains that the man who initially approached you walked off behind the door leaving him in his place. The first man now rejoins you. Comparing them, you notice that they are of different height and build and are dressed very differently."
+              "id": "10",
+              "prompt": "European eating habits changed as a result of international exploration in the 15th and 16th centuries.",
+              "answer": "TRUE"
             },
             {
-              "label": "2",
-              "text": "Daniel Simons of Harvard University found that 50% of participants missed the substitution because of what is called ‘change blindness’. When considered with a large number of recent experimental results, this phenomenon suggests we ‘see’ far less than we think we do. Rather than logging every detail of the visual scene, says Simons, we are actually highly selective. Our impression of seeing everything is just that. In fact, we extract a few details and rely on memory, or even our imagination, for the rest."
+              "id": "11",
+              "prompt": "During the 18th century many European countries created their own versions of the seed drill.",
+              "answer": "NOT GIVEN"
             },
             {
-              "label": "3",
-              "text": "Until recently, scientists believed that vision involved creating images within the brain. By forming detailed internal representations of our surroundings and comparing them over time, we could detect any alterations. However, in his book Consciousness Explained, philosopher Daniel Dennett argued that our brains only store a few key details about the world, which is why we can function effectively. According to Dennett, creating elaborate images in short-term memory would consume valuable cognitive resources. Instead, we record what has changed and assume everything else remains unchanged. As a result, we inevitably overlook some details. Experiments had demonstrated that we tend to ignore elements in our visual field that seem unimportant, such as a repeated word or line in a text. But even Dennett didn't fully realise just how little we actually ‘see.’"
+              "id": "12",
+              "prompt": "Selective breeding methods helped European farmers to produce more animals.",
+              "answer": "TRUE"
             },
             {
-              "label": "4",
-              "text": "A year later, John Grimes from the University of Illinois drew attention by showing that people who were presented with computer-generated images of natural scenes failed to notice changes made while their eyes were, for example, scanning the scene or blinking. Dennett was pleased: ‘In hindsight, I wish I had been bolder, as the effects are more pronounced than I originally claimed.’ Subsequently, it was discovered that our eyes don't even need to be moving to be deceived. A typical laboratory experiment might display an image on a computer screen, like a couple dining on a terrace. The image would briefly disappear, replaced by a blank screen, then reappear with a significant change, such as a raised railing behind the couple. Many people search the screen for up to a minute before spotting the alteration, and some never see it."
-            },
-            {
-              "label": "5",
-              "text": "This is disconcerting. However, 'change blindness' is somewhat artificial because, in real-life scenarios, a visible motion usually signals a change. Yet, not always. As Simons points out, \"We all know the experience of missing a traffic signal change because we briefly looked away. 'Inattentional blindness' refers to not noticing a feature of a scene when you aren't paying attention to it.\""
-            },
-            {
-              "label": "6",
-              "text": "Last year, Simons showed people a video of a basketball game and asked them to count the passes made by one of the teams. After 45 seconds, a man in a gorilla suit slowly walked behind the players. Forty percent didn't notice him. When the tape was replayed, and they were simply told to watch it, they easily saw the gorilla. Some even doubted it was the same video."
-            },
-            {
-              "label": "7",
-              "text": "Now, consider if the viewers had been driving a car, and the man in the gorilla suit had been a pedestrian. Some estimates suggest that nearly half of all fatal motor vehicle accidents in the US result from driver error, including attention lapses. It's more than just academic interest that has spurred research into these cognitive errors."
-            },
-            {
-              "label": "8",
-              "text": "These errors prompt critical questions: how can we reconcile such significant lapses with our subjective experience of continuously perceiving a rich visual environment? Last year, Stephen Kosslyn from Harvard University demonstrated that imagining a scene activates parts of the visual cortex similarly to actually seeing it. He argues that this supports the idea that we only absorb the information we consider important and mentally fill in the gaps where details are less crucial. \"The illusion that we see 'everything' is partly due to filling in gaps with memory,\" he says. \"These memories can be shaped by beliefs and expectations.\""
-            },
-            {
-              "label": "9",
-              "text": "Ronald Rensink from the University of British Columbia in Canada believes our perception of a detailed visual world comes from constructing internal representations. He suggests that the brain first creates a temporary layout of the visual scene, and then our attention enhances the resolution of the scene. \"What attention does,\" he explains, \"is stabilize these representations so they form distinct objects. Once attention shifts, they revert to an unstable, unresolved state.\""
-            },
-            {
-              "label": "10",
-              "text": "While Rensink or Kosslyn propose that internal images or memory play some role, others argue that we can perceive visual richness without storing any of that richness in our brains. Kevin O'Regan, an experimental psychologist, contends that our brains do not store a visual image of the world. Instead, we rely on the external visual environment as different parts of a scene become relevant."
-            },
-            {
-              "label": "11",
-              "text": "According to O'Regan, our sense of controlling what we see is also an illusion. \"We believe that when something flickers outside the window, we choose to look,\" says Susan Blackmore from the University of the West of England, who supports O'Regan's view. \"In reality,\" she explains, \"our change detection mechanisms automatically drag our attention to various stimuli.\""
-            }
-          ],
-          "questionGroups": [
-            {
-              "type": "matchOptions",
-              "title": "Questions 27-30",
-              "instruction": "Match each person with the correct claim, A-G.",
-              "options": [
-                {
-                  "id": "A",
-                  "text": "People overlook changes that happen during eye movements."
-                },
-                {
-                  "id": "B",
-                  "text": "At times, we fail to notice something because we choose to deceive ourselves."
-                },
-                {
-                  "id": "C",
-                  "text": "Retaining every image and memory would hinder our ability to function effectively."
-                },
-                {
-                  "id": "D",
-                  "text": "Sometimes, people overlook the significance of a crucial figure in a scene."
-                },
-                {
-                  "id": "E",
-                  "text": "We misunderstand what we see because we rely on our imagination."
-                },
-                {
-                  "id": "F",
-                  "text": "We don't have complete control over what captures our attention."
-                },
-                {
-                  "id": "G",
-                  "text": "Imagining a scene and physically being there impact our visual processes in similar ways."
-                }
-              ],
-              "questions": [
-                {
-                  "id": "27",
-                  "prompt": "Daniel Dennett",
-                  "answer": "C"
-                },
-                {
-                  "id": "28",
-                  "prompt": "John Grimes",
-                  "answer": "A"
-                },
-                {
-                  "id": "29",
-                  "prompt": "Stephen Kosslyn",
-                  "answer": "G"
-                },
-                {
-                  "id": "30",
-                  "prompt": "Kevin O'Regan",
-                  "answer": "F"
-                }
-              ]
-            },
-            {
-              "type": "tfng",
-              "title": "Questions 31-35",
-              "instruction": "TRUE if the statement agrees with the information; FALSE if the statement contradicts the information; NOT GIVEN if there is no information on this.",
-              "questions": [
-                {
-                  "id": "31",
-                  "prompt": "One expert expressed regret for having underemphasized his argument in a publication.",
-                  "answer": "TRUE"
-                },
-                {
-                  "id": "32",
-                  "prompt": "We overlook insignificant items that come into our view.",
-                  "answer": "TRUE"
-                },
-                {
-                  "id": "33",
-                  "prompt": "Research into cognitive errors might potentially save lives.",
-                  "answer": "TRUE"
-                },
-                {
-                  "id": "34",
-                  "prompt": "The aging process increases the need to fill in gaps in our visual perception.",
-                  "answer": "NOT GIVEN"
-                },
-                {
-                  "id": "35",
-                  "prompt": "Our eyes are only at risk of being deceived when they are in motion.",
-                  "answer": "FALSE"
-                }
-              ]
-            },
-            {
-              "type": "matchOptions",
-              "title": "Questions 36-40",
-              "instruction": "Complete each sentence with the correct ending, A-G.",
-              "options": [
-                {
-                  "id": "A",
-                  "text": "is not backed by scientific evidence."
-                },
-                {
-                  "id": "B",
-                  "text": "is provided by memory."
-                },
-                {
-                  "id": "C",
-                  "text": "causes us to overlook other details."
-                },
-                {
-                  "id": "D",
-                  "text": "has been especially fruitful in recent times."
-                },
-                {
-                  "id": "E",
-                  "text": "has sparked significant public debate."
-                },
-                {
-                  "id": "F",
-                  "text": "is challenging for us to accept."
-                },
-                {
-                  "id": "G",
-                  "text": "helps us see the overall picture more clearly."
-                }
-              ],
-              "questions": [
-                {
-                  "id": "36",
-                  "prompt": "Concentrating on a particular aspect of an activity or scene",
-                  "answer": "C"
-                },
-                {
-                  "id": "37",
-                  "prompt": "The fact that we make visual errors",
-                  "answer": "F"
-                },
-                {
-                  "id": "38",
-                  "prompt": "The part of the picture that we fail to see clearly",
-                  "answer": "B"
-                },
-                {
-                  "id": "39",
-                  "prompt": "The idea that we see everything in our visual field",
-                  "answer": "A"
-                },
-                {
-                  "id": "40",
-                  "prompt": "Research into the nature of human vision",
-                  "answer": "E"
-                }
-              ]
+              "id": "13",
+              "prompt": "Many farmers continued to use natural methods of fertilising their land, even after the development of chemical fertilisers.",
+              "answer": "NOT GIVEN"
             }
           ]
         }
       ]
     },
     {
-      "id": "test-2-worlds-first-cities-camouflaged-creatures-online-course",
-      "title": "TEST 2 - IELTS Reading",
-      "duration": 60,
-      "sourceFile": "TEST 2.docx",
-      "passages": [
+      "id": "p2",
+      "label": "Passage 2",
+      "title": "The aerofoil",
+      "subtitle": "The shape of an aeroplane's wing plays a key role in the achievement of flight",
+      "paragraphs": [
         {
-          "id": "p1",
-          "label": "Passage 1",
-          "title": "The world's first cities",
-          "subtitle": "The creation of Mesopotamian cities",
-          "paragraphs": [
+          "label": "A",
+          "text": "The magic of flight lies in the interaction between the wings of a plane and the air. If the shape of the wing - the aerofoil - is right and the plane is moving fast enough, the wing is pushed into the air as it slices through it. It seems like magic because our all-too-literal brains tell us that because air is invisible it must be insubstantial too. But air is not nothing; air is a substance completely comprised of gases. If you think of a wing slicing through water rather than air, you can begin to imagine how air might provide the upward push that aeronautical scientists call lift. The key to the aerofoil's lift is the flow of air around it. Air flows around an aerofoil because the aerofoil is moving, just as the bow of a boat creates a flow in still water. What matters is the way the curved shape of the aerofoil diverts the flow around it."
+        },
+        {
+          "label": "B",
+          "text": "To really see why, it is worth carrying out an experiment with knives and spoons under a running tap. Hold the blade of a knife vertically in a stream of water and the water flows straight and undisturbed past the blade. Twist the blade slightly at an angle to the stream and you can see how it begins to block and split the flow, breaking it into turbulent eddies - and you may see the turbulence increase as you increase the angle of the knife. Hold the convex side of a spoon under the stream instead, however, and something different happens. The spoon diverts the water but does not disrupt it. You have to twist the spoon at a much steeper angle before it disrupts the flow. Like the curvature of the spoon, the curvature of the aerofoil ensures the flow of the air around it is diverted but not broken up."
+        },
+        {
+          "label": "C",
+          "text": "The curvature of the spoon, like that of the aerofoil is crucial. Far above or below the aerofoil, the airflow is undisturbed, but the closer the air is to the aerofoil the more the flow is bent to follow the aerofoil's shape. As the airflow changes direction, it begins to push in a different direction too, and the more it bends, the greater the change. Right on top and underneath the aerofoil, the airflow is turned effectively at right angles, pushing the aerofoil upwards and creating lift. Since it is the way that the airflow is distorted that creates lift, it is evident that the pattern of the airflow distortion is critical. This depends on the angle that the aerofoil moves through the air - its angle of attack; the steeper the angle, the greater the lift."
+        },
+        {
+          "label": "D",
+          "text": "The overall shape of the aerofoil is also crucial. A gentle, thin, curve provides the best lift, and this is the shape of the wings of birds as well as the shape that the flexible wings of hang-gliders and microlights bend into. But it is hard to make a large wing strong enough in this shape. So, the wings of most large aircraft are, in profile, the shape of a narrow teardrop. This shape does not give us much lift, which is why the wings have to be huge. They are hollow inside, which provides room for fuel storage. There are also flaps on the rear of the wings that can be swung up or down to alter the aerofoil curvature and its effective angle of attack and so allow the pilot to climb or descend."
+        },
+        {
+          "label": "E",
+          "text": "Of course the wings of birds were the original inspiration for the aerofoil. Countless thinkers in the distant past must have marvelled at birds gliding through the sky and guessed that they were held aloft by their outstretched wings. And perhaps some it was the shape of the wings that mattered, such as the 5th-century Greek philosopher Archytas who is said to have built a mechanical bird that flew. Brave pioneers like the 9th-century Cordoban inventor, Abbas Ibn-Firnas, were even bold enough to strap artificial wings to their arms and leap from high places. Ibn-Firnas was lucky enough to glide through the air for ten minutes before crash-landing and almost breaking his neck."
+        },
+        {
+          "label": "F",
+          "text": "Yet the first person who really began to explore the shape of wings methodically was the British engineer Sir George Cayley (1773-1857) and it is to Cayley that we owe the idea of the curved aerofoil. Cayley was an extraordinary and inventive man, and he is credited with developing self-righting lifeboats, wire-spoked wheels, seatbelts and even an internal combustion engine. But it is mostly as the father of aviation that he is remembered, and it is he who pioneered much of the theory of flight. He carried out analyses of what shapes and angles produced the greatest lift. In his analyses, he developed the names of the key forces involved in flight, lift, drag and thrust - which still play an important role today. Flight involves a balance between these four forces, but for a successful aeroplane you need both power and control, which is why it took another half-century before Orville and Wilbur Wright made their historic flight at Kittyhawk in the USA on 17th December 1903."
+        }
+      ],
+      "questionGroups": [
+        {
+          "type": "matchingHeadings",
+          "title": "Questions 14-19",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below.",
+          "optionsTitle": "List of Headings",
+          "options": [
             {
-              "label": "1",
-              "text": "The inhabitants of Mesopotamia - which now forms part of eastern Syria, southeastern Turkey and Iraq - lived for thousands of years on individual farms and in small, isolated communities, working relentlessly just to meet their basic needs. But then, about 6,000 years ago something remarkable happened. The people left the security of their family homes and villages and came together with others to create something far more complex and difficult: the world's first city, called Uruk."
+              "id": "i",
+              "text": "The earliest attempts to achieve human flight"
             },
             {
-              "label": "2",
-              "text": "There is not much left now of Uruk, which is about 250 kilometres south of Iraq's capital Baghdad, but enough does remain to show that this initial experiment in urban living was extraordinarily successful. At its height, around 5,000 years ago, Uruk was home to more than 40,000 people. The outlines of the city walls indicate an enclosed area of about 600 hectares."
+              "id": "ii",
+              "text": "Public reaction to the pioneers of flight"
             },
             {
-              "label": "3",
-              "text": "The archaeological record of Uruk reveals the intensive building and rebuilding which went on for four or five centuries after the city's initial establishment. In that period the people of Uruk built a dozen or so large public buildings. They would carefully level what had stood before, and then build another structure on top, often trying out a different building material or an innovative technique. They seemed to be searching for ways in which architecture could express the revolutionary new social structures that had come into being there."
+              "id": "iii",
+              "text": "A practical demonstration of an aeronautical principle"
             },
             {
-              "label": "4",
-              "text": "Soon Uruk was not the only Mesopotamian city. People all across the flat plains of southern Mesopotamia were enjoying many of the benefits of city life. By about 4,500 years ago, 80 per cent of the Mesopotamian population lived in cities over 40 hectares in size, with populations of between 15,000 and 30,000 people. The emergence of these thriving communities, made up mostly of individuals and groups with no blood ties, was unprecedented in human history. Why did these extraordinary advances happen?"
+              "id": "iv",
+              "text": "The importance of angles in achieving lift"
             },
             {
-              "label": "5",
-              "text": "Smaller communities in Mesopotamia sometimes decided to come together to make it easier to defend themselves from their enemies. But the underlying reason for the creation of cities can be found in the harshness of this particular environment. The area was a place of extremes, where narrow strips of fertile river valleys were bounded by thousands of kilometres of desert and unproductive wetlands. As the small amount of rainfall in the region was incapable of sustaining anything but very limited agriculture, it was only through sophisticated irrigation that isolated pieces of land were kept fertile. The Tigris and the Euphrates rivers provided water for irrigation, and were also the basis of a communication system that led to the spread of the latest concepts in farming."
+              "id": "v",
+              "text": "A misunderstanding about the nature of air"
             },
             {
-              "label": "6",
-              "text": "In such a region, the only way for humans to prosper was by forming groups that could work together. The threat of famine, which could be caused by a prolonged drought or the sudden change in the course of a river, forced people to look outside their families, and work with their neighbours to create an elaborate system of dams, channels and canals to manage water. These projects needed specific skills and labour from outside the farmer's family, and this established more firmly the patterns of dependence that are at the heart of civilisation."
+              "id": "vi",
+              "text": "The discovery of several key factors affecting wing design"
             },
             {
-              "label": "7",
-              "text": "The intensive farming that came about in Mesopotamia was more efficient and productive and therefore generated a surplus of food, allowing crops in years of good harvests to be stored as protection against future less successful years. It also allowed more land for the production of a wider range of crops. It created a world where there was a need for traders and for skilled craftsmen: in short, it was the beginning of industry and consumerism. The concept of specialisation emerged within the population - with increasing numbers of soldiers, builders, musicians, doctors, fortune tellers - all supported directly or indirectly by agriculture. At the same time, this increased the control that powerful institutions, gradually emerging in the early cities, had over the urban population. Although large numbers of people were freed from the struggle of subsistence farming, they were now totally dependent on the institutions that employed them for their daily sustenance."
-            },
-            {
-              "label": "8",
-              "text": "The earliest and most powerful of these institutions was centred on the religious temple. Ever more temple structures were erected in the form of massive pyramids which had enormous storerooms for the output from the farming estates. Over time, the temples acquired these farms for themselves, and appointed a large number of staff to administer them and to deal with the storage of produce. The temples' greatest advantage was that each citizen was expected to give up some time to work for the temples. This meant that temples could easily store huge amounts of agricultural produce which could be used to buy yet more land. In addition, the revenues generated allowed the temples to serve as primitive kinds of banks making loans to people in difficult economic times."
-            },
-            {
-              "label": "9",
-              "text": "We know a surprising amount about these times thanks to the development of an important new technology: writing. In Mesopotamia basic records were inscribed in wet clay, unlike the fragile papyrus used in ancient Egypt and Greece. These first writings were largely lists of people and things, simple bookkeeping. But within several hundred years, writing systems had become more advanced capable of recording concepts as well as lists. The clay tablets used for writing were tough, and the fires that often burnt down the archives where they were stored usually merely baked them for future generations."
+              "id": "vii",
+              "text": "Additional wing features that help control flight"
             }
           ],
-          "questionGroups": [
+          "questions": [
             {
-              "type": "tfng",
-              "title": "Questions 1-6",
-              "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-              "options": [
-                "TRUE",
-                "FALSE",
-                "NOT GIVEN"
-              ],
-              "questions": [
-                {
-                  "id": "1",
-                  "prompt": "Some physical evidence of Uruk still exists in Iraq.",
-                  "answer": "TRUE"
-                },
-                {
-                  "id": "2",
-                  "prompt": "The people of Uruk lived in large apartment buildings.",
-                  "answer": "FALSE"
-                },
-                {
-                  "id": "3",
-                  "prompt": "Builders in Uruk frequently experimented with new construction methods.",
-                  "answer": "TRUE"
-                },
-                {
-                  "id": "4",
-                  "prompt": "Urban settlements were unusual in Mesopotamia 4,500 years ago.",
-                  "answer": "FALSE"
-                },
-                {
-                  "id": "5",
-                  "prompt": "The Tigris and the Euphrates rivers were important for the interchange of ideas.",
-                  "answer": "TRUE"
-                },
-                {
-                  "id": "6",
-                  "prompt": "When there were food shortages, farmers relied mainly on the help of their relatives.",
-                  "answer": "FALSE"
-                }
-              ]
+              "id": "14",
+              "paragraph": "A",
+              "prompt": "Paragraph A",
+              "answer": "v"
             },
             {
-              "type": "gap-fill",
-              "title": "Questions 7-13",
-              "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
-              "questions": [
-                {
-                  "id": "7",
-                  "prompt": "Improved agricultural methods led to a food",
-                  "suffix": "being used as insurance.",
-                  "answer": "surplus"
-                },
-                {
-                  "id": "8",
-                  "prompt": "Temples were built in the shape of large",
-                  "suffix": ".",
-                  "answer": "pyramids"
-                },
-                {
-                  "id": "9",
-                  "prompt": "Temples had large",
-                  "suffix": "where produce was kept.",
-                  "answer": "storerooms"
-                },
-                {
-                  "id": "10",
-                  "prompt": "Many needed",
-                  "suffix": "to manage the farms.",
-                  "answer": "staff"
-                },
-                {
-                  "id": "11",
-                  "prompt": "Temples acted as",
-                  "suffix": "in hard economic periods.",
-                  "answer": "banks"
-                },
-                {
-                  "id": "12",
-                  "prompt": "People wrote on surfaces made of",
-                  "suffix": ".",
-                  "answer": "clay"
-                },
-                {
-                  "id": "13",
-                  "prompt": "Written records remained undamaged after",
-                  "suffix": "archives they were kept in.",
-                  "answer": "fires"
-                }
-              ]
+              "id": "15",
+              "paragraph": "B",
+              "prompt": "Paragraph B",
+              "answer": "iii"
+            },
+            {
+              "id": "16",
+              "paragraph": "C",
+              "prompt": "Paragraph C",
+              "answer": "iv"
+            },
+            {
+              "id": "17",
+              "paragraph": "D",
+              "prompt": "Paragraph D",
+              "answer": "vii"
+            },
+            {
+              "id": "18",
+              "paragraph": "E",
+              "prompt": "Paragraph E",
+              "answer": "i"
+            },
+            {
+              "id": "19",
+              "paragraph": "F",
+              "prompt": "Paragraph F",
+              "answer": "vi"
             }
           ]
         },
         {
-          "id": "p2",
-          "label": "Passage 2",
-          "title": "Australia's camouflaged creatures",
-          "subtitle": "Many species of animal in Australia protect themselves by using camouflage - a way of 'hiding' by blending into the surroundings",
-          "paragraphs": [
+          "type": "gap-fill",
+          "title": "Questions 20-24",
+          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+          "questions": [
             {
-              "label": "A",
-              "text": "Most species use camouflage to some extent. If they are convincing, they survive to pass their genes on to future generations. After generation of natural selection, animals can develop astonishingly complex camouflage techniques, manipulating shape, colour and movement. 'The principle of camouflage is to make it economically unviable for a predator to pursue a particular species of prey.' explains Professor Mark Elgar, of the University of Melbourne. 'Camouflage increases the search time and, as a consequence, the predator will simply target another species, either because it doesn't see the camouflaged individual or it just finds something more obvious to do."
+              "id": "20",
+              "prompt": "A curve provides the maximum amount of",
+              "suffix": ".",
+              "answer": "lift"
             },
             {
-              "label": "B",
-              "text": "The easiest way for an animal to disguise itself is to be invisible in its surroundings. To that end, stick and leaf insects have evolved complex camouflage to hide themselves from predators. Many have the texture of sticks or dry leaves, while others imitate living foliage, even the veins in a leaf. Some insects develop blemishes to match the spots caused by disease. A convincing appearance only works if its owner also acts the part, so during the day the creature using this type of camouflage keeps motionless, or sways like a dead leaf in the breeze. If disturbed, it falls to the ground and stays still. Entomologist Paul Zborowski, who has spent decades photographing inconspicuous creatures, rates the desert insects of Central Australia as the most convincingly disguised creatures he's seen. \"It's an incredibly old habitat so the creatures have had a long time to adapt,\" Zborowski explains. Most of them behave like stones and don't move all day feeding only at night."
+              "id": "21",
+              "prompt": "The enormous wings of a modern plane look like a thin",
+              "suffix": "when viewed from the side.",
+              "answer": "teardrop"
             },
             {
-              "label": "C",
-              "text": "A tawny frogmouth sitting motionless on a stump also illustrates the importance of pairing a persuasive costume with behaviour. Professor Gisela Kaplan of the University of New England, in Australia, says the frogmouth's skill at camouflaging is learned behaviour. While adopting a pose may be a reflex of the bird, and can be observed in a hatchling's first week, the ability to choose a backdrop which matches its colouration does not develop for 4-6 months. When the chicks land they are usually highly conspicuous, and their parents try to signal to them to move to a safe location."
+              "id": "22",
+              "prompt": "The",
+              "suffix": "needed to power a flight is kept inside each wing.",
+              "answer": "fuel"
             },
             {
-              "label": "D",
-              "text": "Fixed camouflage is only good against a relatively unchanging environment, so some animals, such as the cuttlefish, have evolved an adaptable disguise. The cuttlefish can almost instantly change its colour, pattern and texture to match its surroundings, using specialised cells and muscles. On Queensland's reefs, scientists have been studying another ocean dweller that uses colour change, although not to blend into the surroundings. Dr Karen Cheney, from the University of Queensland, says the bluestriped fangblenny alters its colouration to mimic other species of fish, allowing it to travel with them and benefit from safety in numbers. Its most impressive impersonation is of the black-with-neon-blue striped cleaner wrasse which eats the parasites on larger fish. Not only does the fangblenny benefit from the reduced predation that comes with the wrasse's beneficial relationships with other fish, but the disguise also lets it get closer to prey. It darts out from the safety of the wrasse's cleaning station to nip at unsuspecting fish passing by but doesn't attack those coming to be cleaned."
+              "id": "23",
+              "prompt": "The pilot can adjust the",
+              "suffix": ".",
+              "answer": "flaps"
             },
             {
-              "label": "E",
-              "text": "The most famous form of mimicry, however, is for defence, not attack. Batesian mimicry refers to animals that gain protection from predators by imitating a dangerous organism, often using conspicuous colours. The nineteenth-century naturalist Henry Bates first suggested this camouflage technique after noticing that several Amazonian butterfly species looked the same. The technique was later called after him. In Australian waters, the harmless harlequin snake eel sports the same black and white bandings as the highly toxic, yellow-lipped sea krait, ensuring no predator will attack. However, the success of Batesian mimicry depends on the ratio of mimics to originals. If a predator encounters too many that are edible, it will just assume none of the animals with those markings are dangerous, explains Martyn Robinson, an educational naturalist with the Australian Museum."
-            },
-            {
-              "label": "F",
-              "text": "An imitation of a more dangerous creature needn't be exact, just enough to make potential predators hesitate. The hawk moth caterpillar has markings resembling a snake's eyes on its abdomen. When confronted, the caterpillar pulls its head in and the 'eyes' flash open. Whether the potential predator thinks it has seen a snake, or is simply startled is unclear, but the outcome is that the caterpillar lives to see another day."
-            },
-            {
-              "label": "G",
-              "text": "In Queensland's tablelands, the chameleon gecko has another way of making predators hesitate. Its body is brown, but its tail is banded in black and white. Robinson explains that if attacked, the chameleon gecko will drop off its tail, which will wriggle around on the ground. Many lizards do this, but in the case of the chameleon gecko the tail bones actually rub against one another, so it squeaks. 'The predator is, of course, thoroughly absorbed by this black-and-white-striped, wriggling, squeaking thing on the ground, and the gecko can sneak away,' Robinson says. It's a one-time-only trick: the regrown tail is brown, the same as the gecko's body. Such precise disguise and elaborate trickery illustrate the limitless possibilities of nature. But, as Robinson points out, only the most successful illusionists are here to tell the tale."
-            }
-          ],
-          "questionGroups": [
-            {
-              "type": "matching",
-              "title": "Questions 14-18",
-              "instruction": "Reading Passage 2 has seven sections, A-G. Which section contains the following information?",
-              "optionsTitle": "Sections",
-              "options": [
-                {
-                  "id": "A",
-                  "text": "Section A"
-                },
-                {
-                  "id": "B",
-                  "text": "Section B"
-                },
-                {
-                  "id": "C",
-                  "text": "Section C"
-                },
-                {
-                  "id": "D",
-                  "text": "Section D"
-                },
-                {
-                  "id": "E",
-                  "text": "Section E"
-                },
-                {
-                  "id": "F",
-                  "text": "Section F"
-                },
-                {
-                  "id": "G",
-                  "text": "Section G"
-                }
-              ],
-              "questions": [
-                {
-                  "id": "14",
-                  "prompt": "a species that indicates to its young to move to a place where they are less visible",
-                  "answer": "C"
-                },
-                {
-                  "id": "15",
-                  "prompt": "an instance where sound is used to help an animal escape",
-                  "answer": "G"
-                },
-                {
-                  "id": "16",
-                  "prompt": "a creature that can use camouflage to match a range of different backgrounds",
-                  "answer": "D"
-                },
-                {
-                  "id": "17",
-                  "prompt": "a claim that the majority of animals disguise themselves in some way",
-                  "answer": "A"
-                },
-                {
-                  "id": "18",
-                  "prompt": "examples of animals that use camouflage to look like plants",
-                  "answer": "B"
-                }
-              ]
-            },
-            {
-              "type": "matching",
-              "title": "Questions 19-23",
-              "instruction": "Match each statement with the correct person, A-F.",
-              "optionsTitle": "List of people",
-              "options": [
-                {
-                  "id": "A",
-                  "text": "Professor Mark Elgar"
-                },
-                {
-                  "id": "B",
-                  "text": "Paul Zborowski"
-                },
-                {
-                  "id": "C",
-                  "text": "Professor Gisela Kaplan"
-                },
-                {
-                  "id": "D",
-                  "text": "Dr Karen Cheney"
-                },
-                {
-                  "id": "E",
-                  "text": "Henry Bates"
-                },
-                {
-                  "id": "F",
-                  "text": "Martyn Robinson"
-                }
-              ],
-              "questions": [
-                {
-                  "id": "19",
-                  "prompt": "one species has a camouflage tactic that is not present from birth.",
-                  "answer": "C"
-                },
-                {
-                  "id": "20",
-                  "prompt": "Species that live in an ancient environment have become very effective at camouflaging themselves.",
-                  "answer": "B"
-                },
-                {
-                  "id": "21",
-                  "prompt": "Part of an animal is left behind to distract predators.",
-                  "answer": "F"
-                },
-                {
-                  "id": "22",
-                  "prompt": "If it takes too long to find one kind of prey, animals will look for an alternative source food.",
-                  "answer": "A"
-                },
-                {
-                  "id": "23",
-                  "prompt": "Camouflage can involve copying a threatening type of animals.",
-                  "answer": "E"
-                }
-              ]
-            },
-            {
-              "type": "gap-fill",
-              "title": "Questions 24-26",
-              "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
-              "questions": [
-                {
-                  "id": "24",
-                  "prompt": "Dr Karen Cheney studies the bluestriped fangblenny on",
-                  "suffix": "off Queensland's coast.",
-                  "answer": "reefs"
-                },
-                {
-                  "id": "25",
-                  "prompt": "The striped cleaner wrasse gets rid of larger fish's",
-                  "suffix": ".",
-                  "answer": "parasites"
-                },
-                {
-                  "id": "26",
-                  "prompt": "The fangblenny can approach its",
-                  "suffix": "without drawing attention.",
-                  "answer": "prey"
-                }
-              ]
+              "id": "24",
+              "prompt": "The pilot can adjust the flaps which are located at the",
+              "suffix": "of the wings.",
+              "answer": "ends"
             }
           ]
         },
         {
-          "id": "p3",
-          "label": "Passage 3",
-          "title": "The effectiveness of an online course",
-          "subtitle": "",
-          "paragraphs": [
+          "type": "matching",
+          "title": "Questions 25-26",
+          "instruction": "Choose TWO letters A-E. Which TWO things does the writer state about George Cayley?",
+          "optionsTitle": "Options",
+          "options": [
             {
-              "label": "1",
-              "text": "As access to the internet has continued to grow, web-based learning has continued to expand. With approximately half of the households in the United States (or 150 million people) connected to the internet, an estimated 2 million students are taking post-secondary courses that are fully delivered online. Millions of other students at all educational levels (primary, secondary, post-secondary) participate in online courses. However, the effectiveness of online courses, particularly in relation to individual student needs, perceptions, and student outcomes, is sometimes questioned."
+              "id": "A",
+              "text": "He made a lot of money from his inventions."
             },
             {
-              "label": "2",
-              "text": "Common elements for learning in a typical classroom environment are the social and communicative interactions between student and teacher, and student and student. The ability to ask a question, to share an opinion with a fellow student, or to disagree with the point of view in a reading assignment are all fundamental learning activities. However, effective web-based learning requires adjustments on the part of students and teachers for successful interactions to occur, for example. Many online courses provide students and faculty, and students and students with the ability to interact with each other via an electronic bulletin or discussion board."
+              "id": "B",
+              "text": "He understood how to design aeroplane engines 50 years before Orville and Wilbur Wright."
             },
             {
-              "label": "3",
-              "text": "While most studies show a link between interaction and satisfaction in web-based courses, some observers have cautioned that this is not always the case. Ruberg, Taylor and Moore, for example, observe that in order to interact successfully, students must adjust to the nonlinear nature of web-based learning. Typical face-to-face situations tend to be linear, focusing on a single discussion thread. Web-based learning sessions on an electronic bulletin board can have multiple threads with several discussions and interactions progressing simultaneously. Students respond to a teacher but also to other students, depending on their interest and points of view."
+              "id": "C",
+              "text": "His studies included how to achieve the maximum lift."
             },
             {
-              "label": "4",
-              "text": "Sproull and Kiesler caution about discussions based on misinformation, that continue because online an instructor cannot necessarily immediately correct or clarify a comment. As a result, students need to have the experience and knowledge base to sift through the discussion for misinformation. In online learning, the amount of student interaction and the number of comments can easily lead to what is described as information overload. Furthermore, comments in online discussions tend to be lengthier than in face-to-face situations. With more information from many sources, students need to be more attentive to both the who and what of a comment. Cartens Shat, an economist, states 'a wealth of information can create a poverty of attention.'"
+              "id": "D",
+              "text": "He worked closely with other scientists."
             },
             {
-              "label": "5",
-              "text": "In examinations of interaction, the concept of 'presence', or a sense of being in a place and belonging to a group, has received attention. It is generally assumed that when a student is physically present in a face-to-face course, he or she has a sense of belonging to the class or group enrolled in the course and this sense of belonging is greater than that experienced on an online course. He or she listens to the discussion and may choose to raise a hand to comment, answer or ask a question. Furthermore, this same student may develop a relationship with other students in the class and discuss topics related to the class during a break. However, this is an assumption and not always true. For a variety of reasons, some students can also feel alienated in a face-to-face class and not feel part of a group."
-            },
-            {
-              "label": "6",
-              "text": "The idea of presence has been redefined in relation to an online course. The simplest definition of presence for an online course refers to a student's sense of being registered and belonging in a course, and the ability to interact with other students and an instructor even though physical contact is not available. However, as this concept is studied, the definition is expanding and being refined to include telepresence, cognitive presence, social presence, teaching presence, and other forms of presence. The term 'community' is related to presence, and refers to a group of individuals who belong to a social unit, such as students in a class. In an online course, however, terms such as communities of inquiry, communities of learners, and knowledge-building communities have evolved."
-            },
-            {
-              "label": "7",
-              "text": "As the definition of presence has expanded and evolved, a distinction has been made between interaction and presence, emphasizing that they are not the same. Interaction may indicate presence but it is also possible for a student to interact by posting a message on an electronic bulletin board, while not necessarily feeling that he or she is part of a group or a class."
-            },
-            {
-              "label": "8",
-              "text": "A study conducted by Professor Anthony Picciano used questionnaires to determine students' attitudes in relation to their interactions and sense of purpose in online courses. An attempt was made to go beyond student perceptions of interaction and performance and to include perceptions of social presence, as well as actual participation in class activities. In addition, data was collected on performance measures that related specifically to course objectives. While much of the research, including this study, supports the strong relationship between students' perception of interaction and perceived learning, the results of the study indicated that the relationship of actual measures of interaction and performance is mixed. The success of many online courses is dependent upon the nature of student-to-student and student-to-faculty interaction. However, how interaction affects learning outcomes and what the relationships between the two are, is in need of further study."
+              "id": "E",
+              "text": "He reached his conclusions by conducting a series of tests."
             }
           ],
-          "questionGroups": [
+          "questions": [
             {
-              "type": "multiple-choice",
-              "title": "Questions 27-31",
-              "instruction": "Choose the correct letter, A, B, C or D.",
-              "questions": [
-                {
-                  "id": "27",
-                  "prompt": "Which of the following is mentioned in the article in relation to classroom-based learning?",
-                  "choices": [
-                    {
-                      "id": "A",
-                      "text": "the development of academic skills"
-                    },
-                    {
-                      "id": "B",
-                      "text": "the documenting of information"
-                    },
-                    {
-                      "id": "C",
-                      "text": "the completion of assignments"
-                    },
-                    {
-                      "id": "D",
-                      "text": "the exchange of ideas"
-                    }
-                  ],
-                  "answer": "D"
-                },
-                {
-                  "id": "28",
-                  "prompt": "Ruberg, Taylor and Moore point out that web-based learning requires learners to",
-                  "choices": [
-                    {
-                      "id": "A",
-                      "text": "think sequentially"
-                    },
-                    {
-                      "id": "B",
-                      "text": "research different points of view"
-                    },
-                    {
-                      "id": "C",
-                      "text": "limit their responses to other students"
-                    },
-                    {
-                      "id": "D",
-                      "text": "follow more than one discussion at a time"
-                    }
-                  ],
-                  "answer": "D"
-                },
-                {
-                  "id": "29",
-                  "prompt": "What problem did Sproull and Kiesler identify with online discussions?",
-                  "choices": [
-                    {
-                      "id": "A",
-                      "text": "Online discussions demand less attention than face-to-face ones."
-                    },
-                    {
-                      "id": "B",
-                      "text": "Teachers have difficulty monitoring the length of comments."
-                    },
-                    {
-                      "id": "C",
-                      "text": "Face-to-face interactions between students are lost."
-                    },
-                    {
-                      "id": "D",
-                      "text": "There is a delay in giving feedback to students."
-                    }
-                  ],
-                  "answer": "D"
-                },
-                {
-                  "id": "30",
-                  "prompt": "The writer refers to the concept of online presence as",
-                  "choices": [
-                    {
-                      "id": "A",
-                      "text": "listening to a discussion."
-                    },
-                    {
-                      "id": "B",
-                      "text": "a feeling of being part of a group."
-                    },
-                    {
-                      "id": "C",
-                      "text": "posting ideas on an electronic bulletin board."
-                    },
-                    {
-                      "id": "D",
-                      "text": "having a good relationship with other students."
-                    }
-                  ],
-                  "answer": "B"
-                },
-                {
-                  "id": "31",
-                  "prompt": "What was a focus of Anthony Picciano's study?",
-                  "choices": [
-                    {
-                      "id": "A",
-                      "text": "to examine the relationship between presence and course outcomes"
-                    },
-                    {
-                      "id": "B",
-                      "text": "to analyse the differences between online and class-based courses"
-                    },
-                    {
-                      "id": "C",
-                      "text": "to examine the importance of being present in a classroom"
-                    },
-                    {
-                      "id": "D",
-                      "text": "to demonstrate that online courses are not generally effective"
-                    }
-                  ],
-                  "answer": "A"
-                }
-              ]
+              "id": "25",
+              "prompt": "First correct letter",
+              "answer": "C"
             },
             {
-              "type": "yes-no-not-given",
-              "title": "Questions 32-36",
-              "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
-              "options": [
-                "YES",
-                "NO",
-                "NOT GIVEN"
-              ],
-              "questions": [
-                {
-                  "id": "32",
-                  "prompt": "The ability of online courses to meet an individual participant's needs is unclear.",
-                  "answer": "YES"
-                },
-                {
-                  "id": "33",
-                  "prompt": "Researchers caution against building strong online relationships.",
-                  "answer": "NOT GIVEN"
-                },
-                {
-                  "id": "34",
-                  "prompt": "Common assumptions about the benefits of face-to-face courses have proved to be correct.",
-                  "answer": "NO"
-                },
-                {
-                  "id": "35",
-                  "prompt": "The meaning of presence is still being clarified.",
-                  "answer": "YES"
-                },
-                {
-                  "id": "36",
-                  "prompt": "Research on the impacts of interaction on learning outcomes has produced consistent results.",
-                  "answer": "NO"
-                }
-              ]
+              "id": "26",
+              "prompt": "Second correct letter",
+              "answer": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "label": "Passage 3",
+      "title": "Looking for inspiration",
+      "subtitle": "Helen Phillips asks what makes one person more creative than another",
+      "paragraphs": [
+        {
+          "label": "1",
+          "text": "People have speculated about their own creativity for centuries - perhaps ever since we became able to think about thinking. Whatever creativity is, it is thinking that results in new ideas and new ways of doing things. The only bit of the creative process we actually know about is the moment of insight, yet creative ideas and projects may incubate beyond our awareness for months. Not surprising, then, that creativity has long eluded scientific study."
+        },
+        {
+          "label": "2",
+          "text": "In the early 1970s, it was still seen as a type of intelligence. But when more subtle tests of IQ and creative skills were developed in the 1970s, particularly by the father of creativity testing, Paul Torrance, it became clear that the link was not so simple. Creative people are intelligent, in terms of IQ tests at least, but only averagely or just above. While it depends on the discipline, in general, having beyond a certain level IQ does not help boost creativity."
+        },
+        {
+          "label": "3",
+          "text": "Because of the difficulty of studying the actual process, most early attempts to study creativity concentrated on personality. According to creativity specialist Mark Runco of California State University, the creative personality tends to place a high value on aesthetic qualities and have broad interests, providing lots of resources to draw on and knowledge to recombine into novel solutions. 'Creatives' have an attraction to complexity and an ability to handle conflict. They are also highly self-motivated, perhaps even a little obsessive, when it comes to realising their ambitions."
+        },
+        {
+          "label": "4",
+          "text": "But there may be a price to pay for having a creative personality. For centuries, a link has been made between creativity and mental illness. Psychiatrist and author Kay Redfield Jamison of Johns Hopkins University, who herself has bipolar disorder, found that established artists are significantly more likely to have mood disorders. But she also suggests that a switch of mood state might be the key to triggering a creative event, rather than the negative mood itself."
+        },
+        {
+          "label": "5",
+          "text": "Jordan Peterson, a psychologist at the University of Toronto, has carried out work that suggests that the brains of creative people are more open to incoming stimuli than less creative types. Our senses are continuously feeding a mass of data into our brains, which have to block most of it to save us from being snowed under. Peterson calls this process latent inhibition and argues that people who have less of it, and who have a reasonably high IQ, can juggle more of the data, and so may be open to more ideas."
+        },
+        {
+          "label": "6",
+          "text": "But what of the creative act itself? One of the first studies of the creative brain at work was by Colin Martindale, a psychologist from the University of Maine. Back in 1978, he used a network of scalp electrodes to record the pattern of brain waves as people made up stories. Creativity, he showed, has two stages: inspiration and elaboration, each characterized by very different states of mind. While people were dreaming up their stories, he found their brains were surprisingly quiet. The dominant activity was alpha waves, which is the same sort of brain activity as in some stages of dreaming or rest. This could explain why sleep and relaxation can help people be creative."
+        },
+        {
+          "label": "7",
+          "text": "However, when these quiet-minded people were asked to work on their stories, the alpha wave activity dropped off and the brain became busier, revealing increased cortical arousal, and more organised thinking. Strikingly, it was the people who showed the biggest difference in brain activity between the two stages who produced the most creative storylines. Nothing in their background brain activity marked them as creative or uncreative. 'It's as if the less creative person can't move up a gear,' says Guy Claxton, a psychologist at the University of Bristol. 'Creativity requires different kinds of thinking. Very creative people move between these states intuitively.'"
+        },
+        {
+          "label": "8",
+          "text": "Researchers are now trying to identify some of the specific anatomy of creativity. Brain studies of people with particular types of creativity show, perhaps not surprisingly, that active areas are determined by the specialist knowledge being used. Imagery, spatial awareness, language and so on - whatever the skill, it is localised to some extent to a particular brain part or parts. But it's not just these speciality areas that are active. Using information creatively needs coordination. 'Creative synthesis requires a new pattern, to put the brain in a state where many areas are simultaneously active,' says Claxton. When we concentrate in a less creative way, such as when reading the gas bill, there are fewer active centres and less synthesis."
+        },
+        {
+          "label": "9",
+          "text": "But to be truly creative needs more than just the right personality and the right brain areas and networks. It's about using them effectively. Skills, situations and our social setting can shape our creativity just as dramatically as the brain resources we are born with. The most creative people also use the different rhythms of the day, the weekends and the holidays to help alter focus and brain state. They may spend two hours at their desk, then go for a walk, because they know that pattern works for them."
+        },
+        {
+          "label": "10",
+          "text": "Another often forgotten aspect of creativity is social. Vera John-Steiner of the University of New Mexico says that to be really creative you need strong social networks and trusting relationships, not just active neural networks. One vital characteristic of a 'creative', she says, is that they have at least one other person in their life who doesn't think they are completely mad!"
+        }
+      ],
+      "questionGroups": [
+        {
+          "type": "matching",
+          "title": "Questions 27-32",
+          "instruction": "Match each statement with the correct person, A-G. NB You may use any letter more than once.",
+          "optionsTitle": "List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paul Torrance"
             },
             {
-              "type": "matching",
-              "title": "Questions 37-40",
-              "instruction": "Complete each sentence with the correct ending, A-F.",
-              "optionsTitle": "Endings",
-              "options": [
-                {
-                  "id": "A",
-                  "text": "is dependent on adapting to unfamiliar interaction formats."
-                },
-                {
-                  "id": "B",
-                  "text": "is key in determining whether a student has a sense of belonging in course"
-                },
-                {
-                  "id": "C",
-                  "text": "is a subject that the writer believes will require more study."
-                },
-                {
-                  "id": "D",
-                  "text": "is essential to excel in study and scholarship"
-                },
-                {
-                  "id": "E",
-                  "text": "is key in determining whether a student feels they have learned something from a course"
-                },
-                {
-                  "id": "F",
-                  "text": "is important for determining their validity."
-                }
-              ],
-              "questions": [
-                {
-                  "id": "37",
-                  "prompt": "The ability to succeed in an online course",
-                  "answer": "A"
-                },
-                {
-                  "id": "38",
-                  "prompt": "The need to be mindful of the source of comments in an online discussion",
-                  "answer": "F"
-                },
-                {
-                  "id": "39",
-                  "prompt": "In online courses, it is presence, rather than interaction, that",
-                  "answer": "B"
-                },
-                {
-                  "id": "40",
-                  "prompt": "The relationship between interaction and learning achievement",
-                  "answer": "C"
-                }
-              ]
+              "id": "B",
+              "text": "Mark Runco"
+            },
+            {
+              "id": "C",
+              "text": "Kay Redfield Jamison"
+            },
+            {
+              "id": "D",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "E",
+              "text": "Colin Martindale"
+            },
+            {
+              "id": "F",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "G",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "questions": [
+            {
+              "id": "27",
+              "prompt": "Creative people are receptive to the immense amounts of information that the brain has to deal with.",
+              "answer": "D"
+            },
+            {
+              "id": "28",
+              "prompt": "Creativity requires numerous parts of the brain to be active at the same time.",
+              "answer": "F"
+            },
+            {
+              "id": "29",
+              "prompt": "Creative people engage in, and are well informed about, a wide range of subjects.",
+              "answer": "B"
+            },
+            {
+              "id": "30",
+              "prompt": "Creative people may have unstable personalities.",
+              "answer": "C"
+            },
+            {
+              "id": "31",
+              "prompt": "Creative people are driven to achieve the goals they set themselves.",
+              "answer": "B"
+            },
+            {
+              "id": "32",
+              "prompt": "Creative people need support from others.",
+              "answer": "G"
+            }
+          ]
+        },
+        {
+          "type": "gap-fill",
+          "title": "Questions 33-36",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "questions": [
+            {
+              "id": "33",
+              "prompt": "Volunteers had a series of",
+              "suffix": "placed on their heads.",
+              "answer": "electrodes"
+            },
+            {
+              "id": "34",
+              "prompt": "Martindale demonstrated that creativity consisted of",
+              "suffix": "phases.",
+              "answer": "inspiration and elaboration"
+            },
+            {
+              "id": "35",
+              "prompt": "In the first phase, the brain was mostly inactive except for",
+              "suffix": ".",
+              "answer": "alpha waves"
+            },
+            {
+              "id": "36",
+              "prompt": "The most creative stories were produced by volunteers with the greatest",
+              "suffix": "in brain activity between the two phases.",
+              "answer": "difference"
+            }
+          ]
+        },
+        {
+          "type": "tfng",
+          "title": "Questions 37-40",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "questions": [
+            {
+              "id": "37",
+              "prompt": "People with very high IQs are more likely to be creative than those with average IQs.",
+              "answer": "FALSE"
+            },
+            {
+              "id": "38",
+              "prompt": "Society tends to value aesthetic skills highly.",
+              "answer": "NOT GIVEN"
+            },
+            {
+              "id": "39",
+              "prompt": "There can be disadvantages to having a creative personality.",
+              "answer": "TRUE"
+            },
+            {
+              "id": "40",
+              "prompt": "Language skills are more important than spatial awareness in any form of creativity.",
+              "answer": "FALSE"
             }
           ]
         }
