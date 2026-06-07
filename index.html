@@ -121,9 +121,80 @@ function renderTestSelect(){$('testSelect').innerHTML=library.map((t,i)=>`<optio
 function renderTabs(){const t=getCurrentTest(); $('tabs').innerHTML=t.passages.map((p,i)=>`<button class="tab ${i===currentPassageIndex?'active':''}" onclick="currentPassageIndex=${i};checked=false;render()">${esc(p.label||('Passage '+(i+1)))}</button>`).join('')}
 function isHeadingType(type){return ['matching-headings','matchingHeadings'].includes(type)}
 function renderReading(){const t=getCurrentTest(),p=t.passages[currentPassageIndex]; let h=`<h1>${esc(p.title)}</h1><div class="subtitle">${esc(p.subtitle||'')}</div>`; const hg=p.questionGroups.find(g=>isHeadingType(g.type)); p.paragraphs.forEach((para,idx)=>{let drop=''; if(hg){const q=hg.questions.find(x=>x.targetParagraph===para.label||x.paragraph===para.label||x.prompt===('Section '+para.label)); if(q){const qid=q.id||('h_'+para.label),ans=getAnswer(qid),opt=(hg.options||[]).find(o=>o.id===ans); drop=`<div class="drop ${ans?'filled':''}" data-q="${qid}" ondragover="event.preventDefault();this.classList.add('over')" ondragleave="this.classList.remove('over')" ondrop="dropHeading(event,this)"><b>${esc(q.prompt||('Section '+para.label))}:</b> ${opt?esc(opt.id+'. '+opt.text):'Kéo heading vào đây'}</div>`}} h+=`<div class="para">${drop}<span class="label">${esc(para.label||idx+1)}</span>${esc(para.text)}</div>`}); $('reading').innerHTML=h}
-function renderQuestions(){const t=getCurrentTest(),p=t.passages[currentPassageIndex]; let h=''; p.questionGroups.forEach(g=>{h+=`<div class="group"><h2>${esc(g.title)}</h2><div class="inst">${esc(g.instruction||'')}</div>`; if(g.optionsTitle)h+=`<b>${esc(g.optionsTitle)}</b>`; if(g.options&&Array.isArray(g.options)&&typeof g.options[0]==='object')h+='<div class="options">'+g.options.map(o=>`<div class="opt" draggable="true" ondragstart="event.dataTransfer.setData('text/plain','${escAttr(o.id)}')"><b>${esc(o.id)}.</b> ${esc(o.text)}</div>`).join('')+'</div>'; g.questions.forEach((q,idx)=>{const qid=q.id||('h_'+(q.paragraph||q.targetParagraph||idx)),cls=checked?(isCorrect(q,qid)?'correct':'wrong'):''; h+=`<div class="qrow ${cls}"><div class="qnum">${esc(qid)}</div><div class="qprompt">${esc(q.prompt||('Section '+(q.paragraph||q.targetParagraph||'')))}`; if(['tfng','yes-no-not-given'].includes(g.type)){const opts=g.options|| (g.type==='yes-no-not-given'?['YES','NO','NOT GIVEN']:['TRUE','FALSE','NOT GIVEN']); h+=`<div class="choices">${opts.map(v=>`<label class="pill"><input type="radio" name="q${qid}" ${getAnswer(qid)===v?'checked':''} onchange="setAnswer('${qid}','${v}')"> ${esc(v)}</label>`).join('')}</div>`} else if(['gap-fill','gapfill'].includes(g.type)){h+=` <input class="gap" value="${escAttr(getAnswer(qid))}" oninput="setAnswer('${qid}',this.value)" placeholder="Type answer"> ${esc(q.suffix||'')}`} else if(g.type==='multiple-choice'){const opts=q.choices||[]; h+=`<div class="choices">${opts.map(o=>`<label class="pill"><input type="radio" name="q${qid}" ${getAnswer(qid)===o.id?'checked':''} onchange="setAnswer('${qid}','${o.id}')"> <b>${esc(o.id)}.</b> ${esc(o.text)}</label>`).join('')}</div>`} else {const opts=(q.choices||g.options||[]).map(o=>typeof o==='object'?o.id:o); h+=` <select onchange="setAnswer('${qid}',this.value)"><option value="">-- chọn --</option>${opts.map(o=>`<option value="${escAttr(o)}" ${getAnswer(qid)===o?'selected':''}>${esc(o)}</option>`).join('')}</select>`} if(checked)h+=`<div class="answer">Đáp án: <b>${esc(q.answer)}</b> | Bạn chọn: <b>${esc(getAnswer(qid)||'')}</b></div>`; h+='</div></div>'}); h+='</div>'}); $('questions').innerHTML=h}
+function renderQuestions(){
+  const t=getCurrentTest(),p=t.passages[currentPassageIndex]; let h='';
+  p.questionGroups.forEach(g=>{
+    h+=`<div class="group"><h2>${esc(g.title)}</h2><div class="inst">${esc(g.instruction||'')}</div>`;
+    const headingMode = isHeadingType(g.type);
+    const selectedInGroup = new Set();
+    if(headingMode){
+      g.questions.forEach((qq,ii)=>{
+        const qqid=qq.id||('h_'+(qq.paragraph||qq.targetParagraph||ii));
+        const av=getAnswer(qqid);
+        if(av) selectedInGroup.add(av);
+      });
+    }
+    if(g.optionsTitle)h+=`<b>${esc(g.optionsTitle)}</b>`;
+    if(g.options&&Array.isArray(g.options)&&typeof g.options[0]==='object'){
+      let visibleOptions = headingMode ? g.options.filter(o=>!selectedInGroup.has(o.id)) : g.options;
+      if(headingMode && visibleOptions.length===0){
+        h += `<div class="options"><div class="opt" style="cursor:default;color:var(--muted)">Tất cả heading đã được dùng. Muốn đổi thì bỏ/chọn lại ở đoạn bên trái hoặc dropdown bên dưới.</div></div>`;
+      } else {
+        h+='<div class="options">'+visibleOptions.map(o=>`<div class="opt" draggable="true" ondragstart="event.dataTransfer.setData('text/plain','${escAttr(o.id)}')"><b>${esc(o.id)}.</b> ${esc(o.text)}</div>`).join('')+'</div>';
+      }
+    }
+    g.questions.forEach((q,idx)=>{
+      const qid=q.id||('h_'+(q.paragraph||q.targetParagraph||idx)),cls=checked?(isCorrect(q,qid)?'correct':'wrong'):'';
+      h+=`<div class="qrow ${cls}"><div class="qnum">${esc(qid)}</div><div class="qprompt">${esc(q.prompt||('Section '+(q.paragraph||q.targetParagraph||'')))}`;
+      if(['tfng','yes-no-not-given'].includes(g.type)){
+        const opts=g.options|| (g.type==='yes-no-not-given'?['YES','NO','NOT GIVEN']:['TRUE','FALSE','NOT GIVEN']);
+        h+=`<div class="choices">${opts.map(v=>`<label class="pill"><input type="radio" name="q${qid}" ${getAnswer(qid)===v?'checked':''} onchange="setAnswer('${qid}','${v}')"> ${esc(v)}</label>`).join('')}</div>`;
+      } else if(['gap-fill','gapfill'].includes(g.type)){
+        h+=` <input class="gap" value="${escAttr(getAnswer(qid))}" oninput="setAnswer('${qid}',this.value)" placeholder="Type answer"> ${esc(q.suffix||'')}`;
+      } else if(g.type==='multiple-choice'){
+        const opts=q.choices||[];
+        h+=`<div class="choices">${opts.map(o=>`<label class="pill"><input type="radio" name="q${qid}" ${getAnswer(qid)===o.id?'checked':''} onchange="setAnswer('${qid}','${o.id}')"> <b>${esc(o.id)}.</b> ${esc(o.text)}</label>`).join('')}</div>`;
+      } else {
+        let rawOpts=(q.choices||g.options||[]);
+        let opts=rawOpts.map(o=>typeof o==='object'?{id:o.id,text:o.text||''}:{id:o,text:''});
+        if(headingMode){
+          const own=getAnswer(qid);
+          const usedByOthers=new Set();
+          g.questions.forEach((qq,ii)=>{
+            const otherId=qq.id||('h_'+(qq.paragraph||qq.targetParagraph||ii));
+            if(otherId!==qid && getAnswer(otherId)) usedByOthers.add(getAnswer(otherId));
+          });
+          opts=opts.filter(o=>!usedByOthers.has(o.id) || o.id===own);
+        }
+        h+=` <select onchange="setAnswer('${qid}',this.value);renderReading();renderQuestions();"><option value="">-- chọn --</option>${opts.map(o=>`<option value="${escAttr(o.id)}" ${getAnswer(qid)===o.id?'selected':''}>${esc(o.id+(o.text?'. '+o.text:''))}</option>`).join('')}</select>`;
+      }
+      if(checked)h+=`<div class="answer">Đáp án: <b>${esc(q.answer)}</b> | Bạn chọn: <b>${esc(getAnswer(qid)||'')}</b></div>`;
+      h+='</div></div>';
+    });
+    h+='</div>';
+  });
+  $('questions').innerHTML=h;
+}
+
 function answerKey(qid){return getCurrentTest().id+'_'+qid}
-function setAnswer(qid,val){answers[answerKey(qid)]=val;localStorage.setItem(ANS_KEY,JSON.stringify(answers));updateProgress()}
+function setAnswer(qid,val){
+  if(val){
+    const t=getCurrentTest();
+    t.passages.forEach(p=>{
+      p.questionGroups.filter(g=>isHeadingType(g.type)).forEach(g=>{
+        g.questions.forEach((qq,ii)=>{
+          const otherId=qq.id||('h_'+(qq.paragraph||qq.targetParagraph||ii));
+          if(otherId!==qid && answers[answerKey(otherId)]===val){
+            delete answers[answerKey(otherId)];
+          }
+        });
+      });
+    });
+  }
+  answers[answerKey(qid)]=val;
+  localStorage.setItem(ANS_KEY,JSON.stringify(answers));
+  updateProgress();
+}
 function getAnswer(qid){return answers[answerKey(qid)]||''}
 function norm(s){return String(s||'').trim().toLowerCase()}
 function isCorrect(q,qid=q.id){return norm(getAnswer(qid))===norm(q.answer)}
@@ -133,9 +204,18 @@ function check(){checked=true;renderQuestions();const qs=allQuestions(),score=qs
 function resetAnswers(){if(!confirm('Xóa đáp án của bài hiện tại?'))return;allQuestions().forEach(q=>delete answers[answerKey(q._qid)]);localStorage.setItem(ANS_KEY,JSON.stringify(answers));checked=false;renderQuestions();updateProgress()}
 function dropHeading(ev,el){ev.preventDefault();el.classList.remove('over');const id=ev.dataTransfer.getData('text/plain');setAnswer(el.dataset.q,id);renderReading();renderQuestions()}
 function setFont(v){document.documentElement.style.setProperty('--font',v+'px');$('fontVal').textContent=v+'px';localStorage.setItem('ielts_font_multi',v)}
-function highlight(){const sel=window.getSelection();if(!sel.rangeCount||sel.isCollapsed)return;const r=sel.getRangeAt(0);if(!$('reading').contains(r.commonAncestorContainer))return;const mark=document.createElement('mark');mark.className='hl';try{r.surroundContents(mark);sel.removeAllRanges()}catch(e){}}
-$('reading').onclick=e=>{if(e.target.matches('mark.hl'))e.target.replaceWith(document.createTextNode(e.target.textContent))}
-function clearHl(){document.querySelectorAll('#reading mark.hl').forEach(m=>m.replaceWith(document.createTextNode(m.textContent)))}
+function highlight(){
+  const sel=window.getSelection();
+  if(!sel.rangeCount||sel.isCollapsed)return;
+  const r=sel.getRangeAt(0);
+  const okArea = $('reading').contains(r.commonAncestorContainer) || $('questions').contains(r.commonAncestorContainer);
+  if(!okArea)return;
+  const mark=document.createElement('mark');
+  mark.className='hl';
+  try{r.surroundContents(mark);sel.removeAllRanges()}catch(e){}
+}
+$('reading').onclick=e=>{if(e.target.matches('mark.hl'))e.target.replaceWith(document.createTextNode(e.target.textContent))}; $('questions').onclick=e=>{if(e.target.matches('mark.hl'))e.target.replaceWith(document.createTextNode(e.target.textContent))}
+function clearHl(){document.querySelectorAll('#reading mark.hl, #questions mark.hl').forEach(m=>m.replaceWith(document.createTextNode(m.textContent)))}
 function clearSearchMarks(){document.querySelectorAll('mark.searchHit').forEach(m=>m.replaceWith(document.createTextNode(m.textContent)));searchHits=[];searchIndex=-1;$('searchCount').textContent='0/0'}
 function doSearch(){clearSearchMarks();const q=$('search').value.trim();if(!q)return;['reading','questions'].forEach(id=>markSearch($(id),q));searchHits=[...document.querySelectorAll('mark.searchHit')];if(searchHits.length){searchIndex=0;focusHit()}$('searchCount').textContent=searchHits.length?`1/${searchHits.length}`:'0/0'}
 function markSearch(root,term){const walker=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.nodeValue.toLowerCase().includes(term.toLowerCase())?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_REJECT});const nodes=[];while(walker.nextNode())nodes.push(walker.currentNode);nodes.forEach(node=>{const text=node.nodeValue,re=new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi');const frag=document.createDocumentFragment();let last=0,m;while((m=re.exec(text))){frag.append(document.createTextNode(text.slice(last,m.index)));const mark=document.createElement('mark');mark.className='searchHit';mark.textContent=m[0];frag.append(mark);last=m.index+m[0].length}frag.append(document.createTextNode(text.slice(last)));node.parentNode.replaceChild(frag,node)})}
@@ -185,7 +265,7 @@ function showFloatHighlight(){
   const box=$('floatHL');
   if(!sel || !sel.rangeCount || sel.isCollapsed){box.classList.remove('show'); return;}
   const range=sel.getRangeAt(0);
-  if(!$('reading').contains(range.commonAncestorContainer)){box.classList.remove('show'); return;}
+  if(!$('reading').contains(range.commonAncestorContainer) && !$('questions').contains(range.commonAncestorContainer)){box.classList.remove('show'); return;}
   selectionRange=range.cloneRange();
   const rect=range.getBoundingClientRect();
   if(!rect || (rect.width===0 && rect.height===0)){box.classList.remove('show'); return;}
@@ -210,7 +290,7 @@ if($('saveTitleBtn')) $('saveTitleBtn').onclick=saveCurrentTitle; if($('titleInp
 
 let isSelectingText=false;
 document.addEventListener('mousedown',e=>{
-  if($('reading') && $('reading').contains(e.target)){
+  if(($('reading') && $('reading').contains(e.target)) || ($('questions') && $('questions').contains(e.target))){
     isSelectingText=true;
     if($('floatHL')) $('floatHL').classList.remove('show');
   }
@@ -221,7 +301,7 @@ document.addEventListener('mouseup',e=>{
   setTimeout(showFloatHighlight,80);
 });
 document.addEventListener('touchstart',e=>{
-  if($('reading') && $('reading').contains(e.target)){
+  if(($('reading') && $('reading').contains(e.target)) || ($('questions') && $('questions').contains(e.target))){
     isSelectingText=true;
     if($('floatHL')) $('floatHL').classList.remove('show');
   }
