@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>IELTS Reading Workspace</title>
+<title>IELTS Reading Workspace - highlight fixed</title>
 <style>
 :root{--bg:#f5f7fb;--panel:#fff;--text:#172033;--muted:#667085;--line:#d9e0ec;--primary:#3b4cca;--soft:#eef1ff;--danger:#d92d20;--ok:#16803c;--hl:#fff49b;--font:18px}
 *{box-sizing:border-box}
@@ -166,7 +166,7 @@ function renderQuestions(){
           });
           opts=opts.filter(o=>!usedByOthers.has(o.id) || o.id===own);
         }
-        h+=` <select onchange="setAnswer('${qid}',this.value);renderReading();renderQuestions();"><option value="">-- chọn --</option>${opts.map(o=>`<option value="${escAttr(o.id)}" ${getAnswer(qid)===o.id?'selected':''}>${esc(o.id+(o.text?'. '+o.text:''))}</option>`).join('')}</select>`;
+        h+=` <select onchange="setAnswer('${qid}',this.value);${headingMode?'renderReading();renderQuestions();':''}"><option value="">-- chọn --</option>${opts.map(o=>`<option value="${escAttr(o.id)}" ${getAnswer(qid)===o.id?'selected':''}>${esc(o.id+(o.text?'. '+o.text:''))}</option>`).join('')}</select>`;
       }
       if(checked)h+=`<div class="answer">Đáp án: <b>${esc(q.answer)}</b> | Bạn chọn: <b>${esc(getAnswer(qid)||'')}</b></div>`;
       h+='</div></div>';
